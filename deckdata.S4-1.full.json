@@ -1,0 +1,1786 @@
+{
+  "colors": [
+    "Amber",
+    "Amethyst"
+  ],
+  "deckGroup": "S4",
+  "foilIds": [
+    709,
+    729
+  ],
+  "metadata": {
+    "formatVersion": "2.1.5",
+    "generatedOn": "2025-07-06T11:01:32",
+    "language": "en"
+  },
+  "name": "Madrigal Magic",
+  "type": "Starter Deck",
+  "cards": [
+    {
+      "abilities": [
+        {
+          "fullText": "Singer 4 (This character counts as cost 4 to sing songs.)",
+          "keyword": "Singer",
+          "keywordValue": "4",
+          "keywordValueNumber": 4,
+          "reminderText": "This character counts as cost 4 to sing songs.",
+          "type": "keyword"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "Isaiah Mesq"
+      ],
+      "artistsText": "Isaiah Mesq",
+      "code": "0j",
+      "color": "Amber",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 259069,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259069",
+        "cardmarketId": 727099,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/The-First-Chapter/Sebastian-Court-Composer?language=1",
+        "tcgPlayerId": 504540,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/504540"
+      },
+      "flavorText": "\u201cI should be writing symphonies, not tagging along after\nsome headstrong teenager.\u201d",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "19/204 \u2022 EN \u2022 1",
+      "fullName": "Sebastian - Court Composer",
+      "fullText": "Singer 4 (This character counts as cost 4 to sing songs.)",
+      "fullTextSections": [
+        "Singer 4 (This character counts as cost 4 to sing songs.)"
+      ],
+      "id": 19,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set1/cards/1468x2048/19_811f93399d564a3566272d8fa5c648c17dfea2d5.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set1/cards/367x512/19_edd91895cbe09d4efb819c8156216d5cb50f7c6e.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set1/masks/1468x2048/19_a4e07581430da5b9aea1313319b01eae795496e8.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "keywordAbilities": [
+        "Singer"
+      ],
+      "lore": 1,
+      "name": "Sebastian",
+      "number": 19,
+      "rarity": "Common",
+      "setCode": "1",
+      "simpleName": "sebastian court composer",
+      "story": "The Little Mermaid",
+      "strength": 2,
+      "subtypes": [
+        "Storyborn",
+        "Ally"
+      ],
+      "subtypesText": "Storyborn \u2022 Ally",
+      "type": "Character",
+      "version": "Court Composer",
+      "willpower": 2
+    },
+    {
+      "amount": 2,
+      "artists": [
+        "Philipp Kruse"
+      ],
+      "artistsText": "Philipp Kruse",
+      "code": "0s",
+      "color": "Amber",
+      "cost": 1,
+      "effects": [
+        "Remove up to 2 damage from chosen character."
+      ],
+      "externalLinks": {
+        "cardTraderId": 259042,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259042",
+        "cardmarketId": 727108,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/The-First-Chapter/Healing-Glow?language=1",
+        "tcgPlayerId": 492713,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/492713"
+      },
+      "flavorText": "\u201cDon't freak out!\u201d\n\u2014Rapunzel",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "28/204 \u2022 EN \u2022 1",
+      "fullName": "Healing Glow",
+      "fullText": "Remove up to 2 damage from chosen character.",
+      "fullTextSections": [
+        "Remove up to 2 damage from chosen character."
+      ],
+      "id": 28,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set1/cards/1468x2048/28_1786bdf612ccfb44590532cf9af3497c5e4913de.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set1/cards/367x512/28_242abac12b3665283979d0e98fb915a00ee1eb4b.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set1/masks/1468x2048/28_125bf5aa92bddd90fcd682056a5d50656f1643b2.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "name": "Healing Glow",
+      "number": 28,
+      "rarity": "Common",
+      "setCode": "1",
+      "simpleName": "healing glow",
+      "story": "Tangled",
+      "type": "Action"
+    },
+    {
+      "amount": 3,
+      "artists": [
+        "Duyen Nguyen",
+        "Aubrey Archer"
+      ],
+      "artistsText": "Duyen Nguyen / Aubrey Archer",
+      "code": "0E",
+      "color": "Amethyst",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 259031,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/259031",
+        "cardmarketId": 729216,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/The-First-Chapter/Elsa-Queen-Regent?language=1",
+        "tcgPlayerId": 507276,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/507276"
+      },
+      "flavorText": "\u201cI never knew what I was capable of.\u201d",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "40/204 \u2022 EN \u2022 1",
+      "fullName": "Elsa - Queen Regent",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 40,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set1/cards/1468x2048/40_1c3ddf33d22ac96093967c514f43e43be9ef8c5d.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set1/cards/367x512/40_883b6c2e5ccb7a2da3885c72b0d3ac9e78b99503.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set1/masks/1468x2048/40_d94f4bbee2a68fb50f761df44789e2be7db9adcc.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 1,
+      "name": "Elsa",
+      "number": 40,
+      "rarity": "Common",
+      "setCode": "1",
+      "simpleName": "elsa queen regent",
+      "story": "Frozen",
+      "strength": 4,
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Queen",
+        "Sorcerer"
+      ],
+      "subtypesText": "Storyborn \u2022 Hero \u2022 Queen \u2022 Sorcerer",
+      "type": "Character",
+      "version": "Queen Regent",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "effect": "When this character is banished in a challenge, return this card to your hand.",
+          "fullText": "HE'S BACK! When this character is banished in a\nchallenge, return this card to your hand.",
+          "name": "HE'S BACK!",
+          "type": "triggered"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "Ellie Horie"
+      ],
+      "artistsText": "Ellie Horie",
+      "code": "4b",
+      "color": "Amethyst",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 268348,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/268348",
+        "cardmarketId": 745416,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Rise-of-the-Floodborn/HeiHei-Persistent-Presence?language=1",
+        "tcgPlayerId": 527736,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/527736"
+      },
+      "flavorText": "Power. Beauty. HeiHei.",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "43/204 \u2022 EN \u2022 2",
+      "fullName": "HeiHei - Persistent Presence",
+      "fullText": "HE'S BACK! When this character is banished in a\nchallenge, return this card to your hand.",
+      "fullTextSections": [
+        "HE'S BACK! When this character is banished in a\nchallenge, return this card to your hand."
+      ],
+      "id": 259,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set2/cards/1468x2048/43_a0e1347e87aa483b78636929cd9df481e4b681d1.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set2/cards/367x512/43_f5bce7e97ecef814991f788389d7f50572328594.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set2/masks/1468x2048/43_9a659917609903beb21db7b736851c8e195417c6.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 1,
+      "name": "HeiHei",
+      "number": 43,
+      "rarity": "Uncommon",
+      "setCode": "2",
+      "simpleName": "heihei persistent presence",
+      "story": "Moana",
+      "strength": 2,
+      "subtypes": [
+        "Dreamborn",
+        "Ally"
+      ],
+      "subtypesText": "Dreamborn \u2022 Ally",
+      "type": "Character",
+      "version": "Persistent Presence",
+      "willpower": 1
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Support (Whenever this character quests, you\nmay add their \u00a4 to another chosen character's\n\u00a4 this turn.)",
+          "keyword": "Support",
+          "reminderText": "Whenever this character quests, you may add their \u00a4 to another chosen character's \u00a4 this turn.",
+          "type": "keyword"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "Defne T\u00f6z\u00fcm",
+        "Denny Minonne"
+      ],
+      "artistsText": "Defne T\u00f6z\u00fcm / Denny Minonne",
+      "code": "7n",
+      "color": "Amber",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 277415,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/277415",
+        "cardmarketId": 757274,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Into-the-Inklands/Rolly-Hungry-Pup?language=1",
+        "tcgPlayerId": 538353,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/538353"
+      },
+      "flavorText": "\u201cI'm hungry, Mother. I really am.\u201d",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "21/204 \u2022 EN \u2022 3",
+      "fullName": "Rolly - Hungry Pup",
+      "fullText": "Support (Whenever this character quests, you\nmay add their \u00a4 to another chosen character's\n\u00a4 this turn.)",
+      "fullTextSections": [
+        "Support (Whenever this character quests, you\nmay add their \u00a4 to another chosen character's\n\u00a4 this turn.)"
+      ],
+      "id": 457,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set3/cards/1468x2048/21_ebf6869138a91467cd9ed8e4c20d407475170da2.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set3/cards/367x512/21_e98a49662e91927bfdedbcafeb0515ed4542a030.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set3/masks/1468x2048/21_430da6051378e01f1a6d1669461f8a1532c612c2.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "keywordAbilities": [
+        "Support"
+      ],
+      "lore": 1,
+      "name": "Rolly",
+      "number": 21,
+      "rarity": "Uncommon",
+      "setCode": "3",
+      "simpleName": "rolly hungry pup",
+      "story": "101 Dalmatians",
+      "strength": 3,
+      "subtypes": [
+        "Storyborn",
+        "Puppy"
+      ],
+      "subtypesText": "Storyborn \u2022 Puppy",
+      "type": "Character",
+      "version": "Hungry Pup",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "effect": "A character with cost 3 or more can \u27f3 to sing this song for free.",
+          "fullText": "(A character with cost 3 or more can \u27f3 to sing this song for free.)",
+          "type": "static"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "Monica Catalano"
+      ],
+      "artistsText": "Monica Catalano",
+      "code": "7s",
+      "color": "Amber",
+      "cost": 3,
+      "effects": [
+        "Remove up to 3 damage from chosen character. Draw a card."
+      ],
+      "externalLinks": {
+        "cardTraderId": 274554,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/274554",
+        "cardmarketId": 755575,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Into-the-Inklands/Heal-What-Has-Been-Hurt?language=1",
+        "tcgPlayerId": 532523,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/532523"
+      },
+      "flavorText": "Let your power shine\nMake the clock reverse...",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "26/204 \u2022 EN \u2022 3",
+      "fullName": "Heal What Has Been Hurt",
+      "fullText": "(A character with cost 3 or more can \u27f3 to sing this song for free.)\nRemove up to 3 damage from chosen character. Draw a card.",
+      "fullTextSections": [
+        "(A character with cost 3 or more can \u27f3 to sing this song for free.)",
+        "Remove up to 3 damage from chosen character. Draw a card."
+      ],
+      "id": 462,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set3/cards/1468x2048/26_8207a5bc6f3e4c654099a0a49dd761f222837755.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set3/cards/367x512/26_296c5bb4c5ff369461464b13520f100a9bc961ea.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set3/masks/1468x2048/26_afd789374897cb11b408f14f1795ae388e032f0d.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "name": "Heal What Has Been Hurt",
+      "number": 26,
+      "rarity": "Common",
+      "setCode": "3",
+      "simpleName": "heal what has been hurt",
+      "story": "Tangled",
+      "subtypes": [
+        "Song"
+      ],
+      "subtypesText": "Song",
+      "type": "Action"
+    },
+    {
+      "amount": 2,
+      "artists": [
+        "Anna Rud",
+        "Livio Cacciatore"
+      ],
+      "artistsText": "Anna Rud / Livio Cacciatore",
+      "code": "7X",
+      "color": "Amethyst",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 278066,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/278066",
+        "cardmarketId": 757302,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Into-the-Inklands/The-Queen-Hateful-Rival?language=1",
+        "tcgPlayerId": 539076,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/539076"
+      },
+      "flavorText": "\u201cA cobweb's strand to hold her fast\nAn eagle's eye to see her well\nSands of time to steal her past\nThus I cast my magic spell!\u201d",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "57/204 \u2022 EN \u2022 3",
+      "fullName": "The Queen - Hateful Rival",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 493,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set3/cards/1468x2048/57_819017622a20494a40198ad2c0c7d4e415499aee.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set3/cards/367x512/57_3e79ab2af3758ebd2acb36aa8cf72b7aeb350969.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set3/masks/1468x2048/57_f47e392486e68b702a21c8b31e70573ddd45bd6b.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 1,
+      "name": "The Queen",
+      "number": 57,
+      "rarity": "Common",
+      "setCode": "3",
+      "simpleName": "the queen hateful rival",
+      "story": "Snow White and the Seven Dwarfs",
+      "strength": 4,
+      "subtypes": [
+        "Dreamborn",
+        "Villain",
+        "Queen",
+        "Sorcerer"
+      ],
+      "subtypesText": "Dreamborn \u2022 Villain \u2022 Queen \u2022 Sorcerer",
+      "type": "Character",
+      "version": "Hateful Rival",
+      "willpower": 3
+    },
+    {
+      "amount": 3,
+      "artists": [
+        "Eri Welli"
+      ],
+      "artistsText": "Eri Welli",
+      "code": "ba",
+      "color": "Amber",
+      "cost": 1,
+      "externalLinks": {
+        "cardTraderId": 287168,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/287168",
+        "cardmarketId": 770259,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Ursulas-Return/Agustin-Madrigal-Clumsy-Dad?language=1",
+        "tcgPlayerId": 549618,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/549618"
+      },
+      "flavorText": "Falling for Julieta was the easiest thing he'd ever\ndone.",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "1/204 \u2022 EN \u2022 4",
+      "fullName": "Agustin Madrigal - Clumsy Dad",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 692,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/1_f87864076f72760374435808ea620cc42e43f8a9.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/1_31362daf0f7ca855a318dabb2bcd78f62fb43c53.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/1_e1b7bfca03ec6dd3b58b8a698075c3556fb045ef.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 1,
+      "name": "Agustin Madrigal",
+      "number": 1,
+      "rarity": "Common",
+      "setCode": "4",
+      "simpleName": "agustin madrigal clumsy dad",
+      "story": "Encanto",
+      "strength": 2,
+      "subtypes": [
+        "Storyborn",
+        "Mentor",
+        "Madrigal"
+      ],
+      "subtypesText": "Storyborn \u2022 Mentor \u2022 Madrigal",
+      "type": "Character",
+      "version": "Clumsy Dad",
+      "willpower": 2
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Singer 7 (This character counts as cost 7 to sing\nsongs.)",
+          "keyword": "Singer",
+          "keywordValue": "7",
+          "keywordValueNumber": 7,
+          "reminderText": "This character counts as cost 7 to sing songs.",
+          "type": "keyword"
+        }
+      ],
+      "amount": 1,
+      "artists": [
+        "Matthew Robert Davies"
+      ],
+      "artistsText": "Matthew Robert Davies",
+      "code": "bc",
+      "color": "Amber",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 286642,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/286642",
+        "cardmarketId": 767763,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Ursulas-Return/Ariel-Singing-Mermaid?language=1",
+        "tcgPlayerId": 547773,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/547773"
+      },
+      "flavorText": "\u201cWatch and you'll see\u2014some day I'll be part of\nyour world!\u201d",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "3/204 \u2022 EN \u2022 4",
+      "fullName": "Ariel - Singing Mermaid",
+      "fullText": "Singer 7 (This character counts as cost 7 to sing\nsongs.)",
+      "fullTextSections": [
+        "Singer 7 (This character counts as cost 7 to sing\nsongs.)"
+      ],
+      "id": 694,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/3_ce07b5c5b1e4eb75eb20c5e67a4769b9b003689d.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/3_fc45d00df6933f6976f7e56ced771b64bd591afc.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/3_95b17b7b66a0524ab65d60fc308d923849395924.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "keywordAbilities": [
+        "Singer"
+      ],
+      "lore": 2,
+      "name": "Ariel",
+      "number": 3,
+      "rarity": "Rare",
+      "setCode": "4",
+      "simpleName": "ariel singing mermaid",
+      "story": "The Little Mermaid",
+      "strength": 3,
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Princess"
+      ],
+      "subtypesText": "Storyborn \u2022 Hero \u2022 Princess",
+      "type": "Character",
+      "version": "Singing Mermaid",
+      "willpower": 3
+    },
+    {
+      "amount": 2,
+      "artists": [
+        "Hedvig H\u00e4ggman-Sund"
+      ],
+      "artistsText": "Hedvig H\u00e4ggman-Sund",
+      "code": "bi",
+      "color": "Amber",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 282815,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/282815",
+        "cardmarketId": 767765,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Ursulas-Return/Felix-Madrigal-Fun-Loving-Family-Man?language=1",
+        "tcgPlayerId": 543896,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/543896"
+      },
+      "flavorText": "Who needs a gift when you're having this much fun?",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "9/204 \u2022 EN \u2022 4",
+      "fullName": "F\u00e9lix Madrigal - Fun-Loving Family Man",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 700,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/9_1a7025bdde66e60740ca5a1bdda6c7977b3f4e7c.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/9_ae05fc796470c4abdca47182bd63bf911e3eb2bd.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/9_ccdd599447d958523cbc81e5a4c1fdead874c6c0.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 2,
+      "name": "F\u00e9lix Madrigal",
+      "number": 9,
+      "rarity": "Uncommon",
+      "setCode": "4",
+      "simpleName": "felix madrigal fun-loving family man",
+      "story": "Encanto",
+      "strength": 2,
+      "subtypes": [
+        "Storyborn",
+        "Ally",
+        "Madrigal"
+      ],
+      "subtypesText": "Storyborn \u2022 Ally \u2022 Madrigal",
+      "type": "Character",
+      "version": "Fun-Loving Family Man",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "effect": "When you play this character, you may remove up to 2 damage from chosen character. If you removed damage this way, you may draw a card.",
+          "fullText": "SIGNATURE RECIPE When you play this character,\nyou may remove up to 2 damage from chosen\ncharacter. If you removed damage this way, you\nmay draw a card.",
+          "name": "SIGNATURE RECIPE",
+          "type": "triggered"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "Cristian Romero"
+      ],
+      "artistsText": "Cristian Romero",
+      "code": "bm",
+      "color": "Amber",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 282816,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/282816",
+        "cardmarketId": 767766,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Ursulas-Return/Julieta-Madrigal-Excellent-Cook?language=1",
+        "tcgPlayerId": 543897,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/543897"
+      },
+      "flavorText": "\u201cEat this, mi amor.\u201d",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "13/204 \u2022 EN \u2022 4",
+      "fullName": "Julieta Madrigal - Excellent Cook",
+      "fullText": "SIGNATURE RECIPE When you play this character,\nyou may remove up to 2 damage from chosen\ncharacter. If you removed damage this way, you\nmay draw a card.",
+      "fullTextSections": [
+        "SIGNATURE RECIPE When you play this character,\nyou may remove up to 2 damage from chosen\ncharacter. If you removed damage this way, you\nmay draw a card."
+      ],
+      "id": 704,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/13_078f27880f8df17d0353628d9fba420fa444bfe4.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/13_87ec1cf7c74f5da50cd9372b800b90bbe3a288b9.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/13_b41b21b13b23a1b67a054fc26b3b8cc80b120212.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 1,
+      "name": "Julieta Madrigal",
+      "number": 13,
+      "rarity": "Uncommon",
+      "setCode": "4",
+      "simpleName": "julieta madrigal excellent cook",
+      "story": "Encanto",
+      "strength": 1,
+      "subtypes": [
+        "Storyborn",
+        "Mentor",
+        "Madrigal"
+      ],
+      "subtypesText": "Storyborn \u2022 Mentor \u2022 Madrigal",
+      "type": "Character",
+      "version": "Excellent Cook",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Support (Whenever this character quests, you\nmay add their \u00a4 to another chosen character's\n\u00a4 this turn.)",
+          "keyword": "Support",
+          "reminderText": "Whenever this character quests, you may add their \u00a4 to another chosen character's \u00a4 this turn.",
+          "type": "keyword"
+        },
+        {
+          "effect": "When you play this character, chosen character gains Support this turn.",
+          "fullText": "STRIKE UP THE MUSIC When you play this\ncharacter, chosen character gains Support this\nturn.",
+          "name": "STRIKE UP THE MUSIC",
+          "type": "triggered"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "Filipe Laurentino"
+      ],
+      "artistsText": "Filipe Laurentino",
+      "code": "bo",
+      "color": "Amber",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 286881,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/286881",
+        "cardmarketId": 770269,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Ursulas-Return/Mickey-Mouse-Leader-of-the-Band?language=1",
+        "tcgPlayerId": 549522,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/549522"
+      },
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "15/204 \u2022 EN \u2022 4",
+      "fullName": "Mickey Mouse - Leader of the Band",
+      "fullText": "Support (Whenever this character quests, you\nmay add their \u00a4 to another chosen character's\n\u00a4 this turn.)\nSTRIKE UP THE MUSIC When you play this\ncharacter, chosen character gains Support this\nturn.",
+      "fullTextSections": [
+        "Support (Whenever this character quests, you\nmay add their \u00a4 to another chosen character's\n\u00a4 this turn.)",
+        "STRIKE UP THE MUSIC When you play this\ncharacter, chosen character gains Support this\nturn."
+      ],
+      "id": 706,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/15_b9e08956c01ea797ce1a65809628a72ca29f87f2.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/15_e70d94bb19a8e5dd68a091219309d55c738435b5.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/15_05fcc7ad710ec704c44275730b9063397cd7e86d.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "keywordAbilities": [
+        "Support"
+      ],
+      "lore": 1,
+      "name": "Mickey Mouse",
+      "number": 15,
+      "promoIds": [
+        950
+      ],
+      "rarity": "Uncommon",
+      "setCode": "4",
+      "simpleName": "mickey mouse leader of the band",
+      "story": "Mickey Mouse & Friends",
+      "strength": 2,
+      "subtypes": [
+        "Storyborn",
+        "Hero"
+      ],
+      "subtypesText": "Storyborn \u2022 Hero",
+      "type": "Character",
+      "version": "Leader of the Band",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Support (Whenever this character quests, you\nmay add their \u00a4 to another chosen character's\n\u00a4 this turn.)",
+          "keyword": "Support",
+          "reminderText": "Whenever this character quests, you may add their \u00a4 to another chosen character's \u00a4 this turn.",
+          "type": "keyword"
+        },
+        {
+          "effect": "Whenever this character quests, your other Madrigal characters get +1 \u25ca this turn.",
+          "fullText": "SAVING THE MIRACLE Whenever this character\nquests, your other Madrigal characters get +1 \u25ca\nthis turn.",
+          "name": "SAVING THE MIRACLE",
+          "type": "triggered"
+        }
+      ],
+      "amount": 1,
+      "artists": [
+        "Aubrey Archer"
+      ],
+      "artistsText": "Aubrey Archer",
+      "code": "br",
+      "color": "Amber",
+      "cost": 5,
+      "externalLinks": {
+        "cardTraderId": 282817,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/282817",
+        "cardmarketId": 767767,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Ursulas-Return/Mirabel-Madrigal-Gift-of-the-Family?language=1",
+        "tcgPlayerId": 543898,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/543898"
+      },
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "18/204 \u2022 EN \u2022 4",
+      "fullName": "Mirabel Madrigal - Gift of the Family",
+      "fullText": "Support (Whenever this character quests, you\nmay add their \u00a4 to another chosen character's\n\u00a4 this turn.)\nSAVING THE MIRACLE Whenever this character\nquests, your other Madrigal characters get +1 \u25ca\nthis turn.",
+      "fullTextSections": [
+        "Support (Whenever this character quests, you\nmay add their \u00a4 to another chosen character's\n\u00a4 this turn.)",
+        "SAVING THE MIRACLE Whenever this character\nquests, your other Madrigal characters get +1 \u25ca\nthis turn."
+      ],
+      "id": 709,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/18_511a3648909b2b51e137c2503bb8f89f8dc8a905.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/18_bbfa96ee117f51a6fc11686213e44a34c3a82b06.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/18_ac12f39599d9a2be3b62aa64adffd5e9f608f08b.jpg"
+      },
+      "inkwell": false,
+      "isFoil": true,
+      "keywordAbilities": [
+        "Support"
+      ],
+      "lore": 2,
+      "name": "Mirabel Madrigal",
+      "number": 18,
+      "rarity": "Super Rare",
+      "setCode": "4",
+      "simpleName": "mirabel madrigal gift of the family",
+      "story": "Encanto",
+      "strength": 3,
+      "subtypes": [
+        "Dreamborn",
+        "Hero",
+        "Madrigal"
+      ],
+      "subtypesText": "Dreamborn \u2022 Hero \u2022 Madrigal",
+      "type": "Character",
+      "version": "Gift of the Family",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Support (Whenever this character quests, you\nmay add their \u00a4 to another chosen character's\n\u00a4 this turn.)",
+          "keyword": "Support",
+          "reminderText": "Whenever this character quests, you may add their \u00a4 to another chosen character's \u00a4 this turn.",
+          "type": "keyword"
+        }
+      ],
+      "amount": 3,
+      "artists": [
+        "Samanta Erdini"
+      ],
+      "artistsText": "Samanta Erdini",
+      "code": "bs",
+      "color": "Amber",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 286769,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/286769",
+        "cardmarketId": 770272,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Ursulas-Return/Mirabel-Madrigal-Prophecy-Finder?language=1",
+        "tcgPlayerId": 549248,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/549248"
+      },
+      "flavorText": "\u201cWhy would Bruno break this prophecy? Could it\nbe something dangerous? We have to find out!\u201d",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "19/204 \u2022 EN \u2022 4",
+      "fullName": "Mirabel Madrigal - Prophecy Finder",
+      "fullText": "Support (Whenever this character quests, you\nmay add their \u00a4 to another chosen character's\n\u00a4 this turn.)",
+      "fullTextSections": [
+        "Support (Whenever this character quests, you\nmay add their \u00a4 to another chosen character's\n\u00a4 this turn.)"
+      ],
+      "id": 710,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/19_312b812c15b9433accd3f16f0b529e82e6410b3f.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/19_0c32ca801c0d9b1ad8a7f6008ad54b69011a04ea.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/19_ecab536b74a350b5fdbb9e707cbc770868aac5b3.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "keywordAbilities": [
+        "Support"
+      ],
+      "lore": 1,
+      "name": "Mirabel Madrigal",
+      "number": 19,
+      "rarity": "Common",
+      "setCode": "4",
+      "simpleName": "mirabel madrigal prophecy finder",
+      "story": "Encanto",
+      "strength": 2,
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Madrigal"
+      ],
+      "subtypesText": "Storyborn \u2022 Hero \u2022 Madrigal",
+      "type": "Character",
+      "version": "Prophecy Finder",
+      "willpower": 2
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Bodyguard (This character may enter play exerted.\nAn opposing character who challenges one of\nyour characters must choose a character with\nBodyguard if able.)",
+          "keyword": "Bodyguard",
+          "reminderText": "This character may enter play exerted. An opposing character who challenges one of your characters must choose a character with Bodyguard if able.",
+          "type": "keyword"
+        }
+      ],
+      "amount": 3,
+      "artists": [
+        "Linh Dang"
+      ],
+      "artistsText": "Linh Dang",
+      "code": "bu",
+      "color": "Amber",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 287287,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/287287",
+        "cardmarketId": 770274,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Ursulas-Return/Prince-Eric-Seafaring-Prince?language=1",
+        "tcgPlayerId": 550560,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/550560"
+      },
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "21/204 \u2022 EN \u2022 4",
+      "fullName": "Prince Eric - Seafaring Prince",
+      "fullText": "Bodyguard (This character may enter play exerted.\nAn opposing character who challenges one of\nyour characters must choose a character with\nBodyguard if able.)",
+      "fullTextSections": [
+        "Bodyguard (This character may enter play exerted.\nAn opposing character who challenges one of\nyour characters must choose a character with\nBodyguard if able.)"
+      ],
+      "id": 712,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/21_236d639566783a58466312927b70c0e29b036a2b.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/21_f667b32d92ec9ccb1ab5982834729eed7be1941c.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/21_6c0cd4b30783923124dee34a72a093690e99c78a.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "keywordAbilities": [
+        "Bodyguard"
+      ],
+      "lore": 1,
+      "name": "Prince Eric",
+      "number": 21,
+      "rarity": "Common",
+      "setCode": "4",
+      "simpleName": "prince eric seafaring prince",
+      "story": "The Little Mermaid",
+      "strength": 3,
+      "subtypes": [
+        "Dreamborn",
+        "Hero",
+        "Prince"
+      ],
+      "subtypesText": "Dreamborn \u2022 Hero \u2022 Prince",
+      "type": "Character",
+      "version": "Seafaring Prince",
+      "willpower": 3
+    },
+    {
+      "amount": 3,
+      "artists": [
+        "Aisha Durmagambetova"
+      ],
+      "artistsText": "Aisha Durmagambetova",
+      "code": "bw",
+      "color": "Amber",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 287278,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/287278",
+        "cardmarketId": 770276,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Ursulas-Return/Stitch-Alien-Dancer?language=1",
+        "tcgPlayerId": 550562,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/550562"
+      },
+      "flavorText": "Moving to the music, he begins to understand the\ntrue meaning of ohana and how he fits into the\nfamily he has found.",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "23/204 \u2022 EN \u2022 4",
+      "fullName": "Stitch - Alien Dancer",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 714,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/23_854e6c4ea6f9fb3a5e56b99be5332ff46048c545.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/23_c9a41dcc062eb0510af53b088376e4f93ebb72d3.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/23_12798d51568c8a6239e9526e05cf1359eede23b7.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 1,
+      "name": "Stitch",
+      "number": 23,
+      "rarity": "Common",
+      "setCode": "4",
+      "simpleName": "stitch alien dancer",
+      "story": "Lilo & Stitch",
+      "strength": 2,
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Alien"
+      ],
+      "subtypesText": "Storyborn \u2022 Hero \u2022 Alien",
+      "type": "Character",
+      "version": "Alien Dancer",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Sing Together 7 (Any number of your or your teammates'\ncharacters with total cost 7 or more may \u27f3 to sing this\nsong for free.)",
+          "keyword": "Sing Together",
+          "keywordValue": "7",
+          "keywordValueNumber": 7,
+          "reminderText": "Any number of your or your teammates' characters with total cost 7 or more may \u27f3 to sing this song for free.",
+          "type": "keyword"
+        }
+      ],
+      "amount": 1,
+      "artists": [
+        "Giulia Riva"
+      ],
+      "artistsText": "Giulia Riva",
+      "code": "bB",
+      "color": "Amber",
+      "cost": 7,
+      "effects": [
+        "Look at the top 5 cards of your deck. You may reveal up\nto 2 character cards and put them into your hand. Put the\nrest on the bottom of your deck in any order."
+      ],
+      "enchantedId": 898,
+      "externalLinks": {
+        "cardTraderId": 286622,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/286622",
+        "cardmarketId": 767770,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Ursulas-Return/Look-at-this-Family-V1?language=1",
+        "tcgPlayerId": 547845,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/547845"
+      },
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "28/204 \u2022 EN \u2022 4",
+      "fullName": "Look at This Family",
+      "fullText": "Sing Together 7 (Any number of your or your teammates'\ncharacters with total cost 7 or more may \u27f3 to sing this\nsong for free.)\nLook at the top 5 cards of your deck. You may reveal up\nto 2 character cards and put them into your hand. Put the\nrest on the bottom of your deck in any order.",
+      "fullTextSections": [
+        "Sing Together 7 (Any number of your or your teammates'\ncharacters with total cost 7 or more may \u27f3 to sing this\nsong for free.)",
+        "Look at the top 5 cards of your deck. You may reveal up\nto 2 character cards and put them into your hand. Put the\nrest on the bottom of your deck in any order."
+      ],
+      "id": 719,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/28_23b29e8fe3177d1ccd3338082522426ee968e253.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/28_4070aa7a4367b151e61bac9a31bd2f26667573e3.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/28_56e55e52f146c73742f3abc10c90b14192f33dd7.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "keywordAbilities": [
+        "Sing Together"
+      ],
+      "name": "Look at This Family",
+      "number": 28,
+      "rarity": "Rare",
+      "setCode": "4",
+      "simpleName": "look at this family",
+      "story": "Encanto",
+      "subtypes": [
+        "Song"
+      ],
+      "subtypesText": "Song",
+      "type": "Action"
+    },
+    {
+      "abilities": [
+        {
+          "effect": "A character with cost 4 or more can \u27f3 to sing this song for free.",
+          "fullText": "(A character with cost 4 or more can \u27f3 to sing this\nsong for free.)",
+          "type": "static"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "Ellie Horie"
+      ],
+      "artistsText": "Ellie Horie",
+      "code": "bC",
+      "color": "Amber",
+      "cost": 4,
+      "effects": [
+        "All opposing characters get -2 \u00a4 until the start of\nyour next turn."
+      ],
+      "externalLinks": {
+        "cardTraderId": 286619,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/286619",
+        "cardmarketId": 767771,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Ursulas-Return/Lost-in-the-Woods?language=1",
+        "tcgPlayerId": 547770,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/547770"
+      },
+      "flavorText": "I'm left behind, wondering if I should follow",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "29/204 \u2022 EN \u2022 4",
+      "fullName": "Lost in the Woods",
+      "fullText": "(A character with cost 4 or more can \u27f3 to sing this\nsong for free.)\nAll opposing characters get -2 \u00a4 until the start of\nyour next turn.",
+      "fullTextSections": [
+        "(A character with cost 4 or more can \u27f3 to sing this\nsong for free.)",
+        "All opposing characters get -2 \u00a4 until the start of\nyour next turn."
+      ],
+      "id": 720,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/29_d17466fe447bfc96e11a391aaec918f0962d02ea.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/29_31d7459e1a8cd9c677649c784735aafcb187b14a.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/29_b005a34216a30fbd5bf15357831ec702c1f2be3a.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "name": "Lost in the Woods",
+      "number": 29,
+      "rarity": "Uncommon",
+      "setCode": "4",
+      "simpleName": "lost in the woods",
+      "story": "Frozen",
+      "subtypes": [
+        "Song"
+      ],
+      "subtypesText": "Song",
+      "type": "Action"
+    },
+    {
+      "amount": 3,
+      "artists": [
+        "Ellie Horie"
+      ],
+      "artistsText": "Ellie Horie",
+      "code": "bI",
+      "color": "Amethyst",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 287254,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/287254",
+        "cardmarketId": 770282,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Ursulas-Return/Antonio-Madrigal-Animal-Expert?language=1",
+        "tcgPlayerId": 550521,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/550521"
+      },
+      "flavorText": "\u201cOnce upon a time, there was a casita in the\nmountains with a very special family....\u201d",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "35/204 \u2022 EN \u2022 4",
+      "fullName": "Antonio Madrigal - Animal Expert",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 726,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/35_3c0737d043d38867a100cc6c2c5f704988c74a06.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/35_d1cf8feac00065a2972ee575da2f286acd2d7f09.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/35_2bc0707c4c4a8033848db104e4036d5ccfc25df8.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 1,
+      "name": "Antonio Madrigal",
+      "number": 35,
+      "rarity": "Uncommon",
+      "setCode": "4",
+      "simpleName": "antonio madrigal animal expert",
+      "story": "Encanto",
+      "strength": 3,
+      "subtypes": [
+        "Storyborn",
+        "Ally",
+        "Madrigal"
+      ],
+      "subtypesText": "Storyborn \u2022 Ally \u2022 Madrigal",
+      "type": "Character",
+      "version": "Animal Expert",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "effect": "When you play this character, chosen character gains \u201cWhen this character is banished in a challenge, you may return this card to your hand\u201d this turn.",
+          "fullText": "IT WAS YOUR VISION When you play this\ncharacter, chosen character gains \u201cWhen this\ncharacter is banished in a challenge, you may\nreturn this card to your hand\u201d this turn.",
+          "name": "IT WAS YOUR VISION",
+          "type": "triggered"
+        }
+      ],
+      "amount": 1,
+      "artists": [
+        "Aubrey Archer"
+      ],
+      "artistsText": "Aubrey Archer",
+      "code": "bL",
+      "color": "Amethyst",
+      "cost": 5,
+      "externalLinks": {
+        "cardTraderId": 282818,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/282818",
+        "cardmarketId": 767774,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Ursulas-Return/Bruno-Madrigal-Out-of-the-Shadows?language=1",
+        "tcgPlayerId": 543899,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/543899"
+      },
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "38/204 \u2022 EN \u2022 4",
+      "fullName": "Bruno Madrigal - Out of the Shadows",
+      "fullText": "IT WAS YOUR VISION When you play this\ncharacter, chosen character gains \u201cWhen this\ncharacter is banished in a challenge, you may\nreturn this card to your hand\u201d this turn.",
+      "fullTextSections": [
+        "IT WAS YOUR VISION When you play this\ncharacter, chosen character gains \u201cWhen this\ncharacter is banished in a challenge, you may\nreturn this card to your hand\u201d this turn."
+      ],
+      "id": 729,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/38_1eaeea91a6e4f5c470948c16e5818b461e13d6cb.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/38_55b55dde941f5ed25de61a90c96cff4b5a001675.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/38_b1df32a717cf4101215d7697aaa8f06f872779c9.jpg"
+      },
+      "inkwell": false,
+      "isFoil": true,
+      "lore": 1,
+      "name": "Bruno Madrigal",
+      "number": 38,
+      "rarity": "Rare",
+      "setCode": "4",
+      "simpleName": "bruno madrigal out of the shadows",
+      "story": "Encanto",
+      "strength": 4,
+      "subtypes": [
+        "Storyborn",
+        "Ally",
+        "Madrigal"
+      ],
+      "subtypesText": "Storyborn \u2022 Ally \u2022 Madrigal",
+      "type": "Character",
+      "version": "Out of the Shadows",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "effect": "At the start of your turn, you may choose one: \u2022 This character gets +1 \u25ca this turn. \u2022 This character gains Challenger +2 this turn. (While challenging, this character gets +2 \u00a4.)",
+          "fullText": "MANY FORMS At the start of your turn, you may\nchoose one:\n\u2022 This character gets +1 \u25ca this turn.\n\u2022 This character gains Challenger +2 this turn.\n(While challenging, this character gets +2 \u00a4.)",
+          "name": "MANY FORMS",
+          "type": "triggered"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "Emily Abeydeera"
+      ],
+      "artistsText": "Emily Abeydeera",
+      "code": "bN",
+      "color": "Amethyst",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 286637,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/286637",
+        "cardmarketId": 767775,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Ursulas-Return/Camilo-Madrigal-Prankster?language=1",
+        "tcgPlayerId": 548203,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/548203"
+      },
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "40/204 \u2022 EN \u2022 4",
+      "fullName": "Camilo Madrigal - Prankster",
+      "fullText": "MANY FORMS At the start of your turn, you may\nchoose one:\n\u2022 This character gets +1 \u25ca this turn.\n\u2022 This character gains Challenger +2 this turn.\n(While challenging, this character gets +2 \u00a4.)",
+      "fullTextSections": [
+        "MANY FORMS At the start of your turn, you may\nchoose one:\n\u2022 This character gets +1 \u25ca this turn.\n\u2022 This character gains Challenger +2 this turn.\n(While challenging, this character gets +2 \u00a4.)"
+      ],
+      "id": 731,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/40_31cf038ba0617657f860acb1dd4fb1185f0916ba.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/40_d8b44dadcc53f8e233c139262168bf061e27202e.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/40_63b00d205f26f65b47ec219224d0f4fc9edcb326.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 1,
+      "name": "Camilo Madrigal",
+      "number": 40,
+      "rarity": "Uncommon",
+      "setCode": "4",
+      "simpleName": "camilo madrigal prankster",
+      "story": "Encanto",
+      "strength": 2,
+      "subtypes": [
+        "Storyborn",
+        "Ally",
+        "Madrigal"
+      ],
+      "subtypesText": "Storyborn \u2022 Ally \u2022 Madrigal",
+      "type": "Character",
+      "version": "Prankster",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "effect": "When you play this character, if an opponent has an exerted character in play, you may draw a card.",
+          "fullText": "MAGICAL INFORMANT When you play this\ncharacter, if an opponent has an exerted\ncharacter in play, you may draw a card.",
+          "name": "MAGICAL INFORMANT",
+          "type": "triggered"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "Otto Paredes"
+      ],
+      "artistsText": "Otto Paredes",
+      "code": "bO",
+      "color": "Amethyst",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 282819,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/282819",
+        "cardmarketId": 767776,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Ursulas-Return/Dolores-Madrigal-Easy-Listener?language=1",
+        "tcgPlayerId": 543900,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/543900"
+      },
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "41/204 \u2022 EN \u2022 4",
+      "fullName": "Dolores Madrigal - Easy Listener",
+      "fullText": "MAGICAL INFORMANT When you play this\ncharacter, if an opponent has an exerted\ncharacter in play, you may draw a card.",
+      "fullTextSections": [
+        "MAGICAL INFORMANT When you play this\ncharacter, if an opponent has an exerted\ncharacter in play, you may draw a card."
+      ],
+      "id": 732,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/41_3660e42c183b4c225f09f27c229edd9ed009f19c.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/41_0193666f5ff1a246e823584507f979ccb3ca84ae.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/41_98b850856c25ab195f71dd97b0403b8915fefad0.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 2,
+      "name": "Dolores Madrigal",
+      "number": 41,
+      "rarity": "Common",
+      "setCode": "4",
+      "simpleName": "dolores madrigal easy listener",
+      "story": "Encanto",
+      "strength": 3,
+      "subtypes": [
+        "Storyborn",
+        "Ally",
+        "Madrigal"
+      ],
+      "subtypesText": "Storyborn \u2022 Ally \u2022 Madrigal",
+      "type": "Character",
+      "version": "Easy Listener",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Evasive (Only characters with Evasive can challenge this\ncharacter.)",
+          "keyword": "Evasive",
+          "reminderText": "Only characters with Evasive can challenge this character.",
+          "type": "keyword"
+        },
+        {
+          "effect": "During your turn, if no other character has quested this turn, this character gets +3 \u25ca.",
+          "fullText": "LADIES FIRST During your turn, if no other character\nhas quested this turn, this character gets +3 \u25ca.",
+          "name": "LADIES FIRST",
+          "type": "static"
+        },
+        {
+          "effect": "Whenever this character quests, your other characters can't quest for the rest of this turn.",
+          "fullText": "LEAVE IT TO ME Whenever this character quests, your\nother characters can't quest for the rest of this turn.",
+          "name": "LEAVE IT TO ME",
+          "type": "triggered"
+        }
+      ],
+      "amount": 1,
+      "artists": [
+        "Otto Paredes"
+      ],
+      "artistsText": "Otto Paredes",
+      "code": "bS",
+      "color": "Amethyst",
+      "cost": 5,
+      "externalLinks": {
+        "cardTraderId": 286625,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/286625",
+        "cardmarketId": 767779,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Ursulas-Return/Isabela-Madrigal-Golden-Child?language=1",
+        "tcgPlayerId": 548204,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/548204"
+      },
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "45/204 \u2022 EN \u2022 4",
+      "fullName": "Isabela Madrigal - Golden Child",
+      "fullText": "Evasive (Only characters with Evasive can challenge this\ncharacter.)\nLADIES FIRST During your turn, if no other character\nhas quested this turn, this character gets +3 \u25ca.\nLEAVE IT TO ME Whenever this character quests, your\nother characters can't quest for the rest of this turn.",
+      "fullTextSections": [
+        "Evasive (Only characters with Evasive can challenge this\ncharacter.)",
+        "LADIES FIRST During your turn, if no other character\nhas quested this turn, this character gets +3 \u25ca.",
+        "LEAVE IT TO ME Whenever this character quests, your\nother characters can't quest for the rest of this turn."
+      ],
+      "id": 736,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/45_2765b15c9afef4a230dd0968241a0825c53cb93e.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/45_9ab751052a7051058baf0ba713eaf09442c97f81.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/45_c87a540bff1b5c143b82a8a5cd5d32285b2e9c9a.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "keywordAbilities": [
+        "Evasive"
+      ],
+      "lore": 1,
+      "name": "Isabela Madrigal",
+      "number": 45,
+      "rarity": "Rare",
+      "setCode": "4",
+      "simpleName": "isabela madrigal golden child",
+      "story": "Encanto",
+      "strength": 3,
+      "subtypes": [
+        "Storyborn",
+        "Ally",
+        "Madrigal"
+      ],
+      "subtypesText": "Storyborn \u2022 Ally \u2022 Madrigal",
+      "type": "Character",
+      "version": "Golden Child",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Rush (This character can challenge the turn\nthey're played.)",
+          "keyword": "Rush",
+          "reminderText": "This character can challenge the turn they're played.",
+          "type": "keyword"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "Juan Diego Leon"
+      ],
+      "artistsText": "Juan Diego Leon",
+      "code": "bU",
+      "color": "Amethyst",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 282820,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/282820",
+        "cardmarketId": 767780,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Ursulas-Return/Luisa-Madrigal-Magically-Strong-One?language=1",
+        "tcgPlayerId": 543901,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/543901"
+      },
+      "flavorText": "\u201cThis rock? No problem. Go get that prophecy,\nhermana!\u201d",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "47/204 \u2022 EN \u2022 4",
+      "fullName": "Luisa Madrigal - Magically Strong One",
+      "fullText": "Rush (This character can challenge the turn\nthey're played.)",
+      "fullTextSections": [
+        "Rush (This character can challenge the turn\nthey're played.)"
+      ],
+      "id": 738,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/47_ac6a0fa89c9e287cf70852e696b294764ec2c229.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/47_761e6d39271a5202163251826b702cbcb27ad3f5.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/47_334018823e654db726b66eb85a6a200ad3904d90.jpg"
+      },
+      "inkwell": false,
+      "isFoil": false,
+      "keywordAbilities": [
+        "Rush"
+      ],
+      "lore": 1,
+      "name": "Luisa Madrigal",
+      "number": 47,
+      "rarity": "Common",
+      "setCode": "4",
+      "simpleName": "luisa madrigal magically strong one",
+      "story": "Encanto",
+      "strength": 4,
+      "subtypes": [
+        "Storyborn",
+        "Ally",
+        "Madrigal"
+      ],
+      "subtypesText": "Storyborn \u2022 Ally \u2022 Madrigal",
+      "type": "Character",
+      "version": "Magically Strong One",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "effect": "This character gets +1 \u00a4 for each card in your hand.",
+          "fullText": "BEHEMOTH This character gets +1 \u00a4 for each\ncard in your hand.",
+          "name": "BEHEMOTH",
+          "type": "static"
+        }
+      ],
+      "amount": 3,
+      "artists": [
+        "Simone Buonfantino"
+      ],
+      "artistsText": "Simone Buonfantino",
+      "code": "bY",
+      "color": "Amethyst",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 286812,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/286812",
+        "cardmarketId": 770291,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Ursulas-Return/Marshmallow-Terrifying-Snowman?language=1",
+        "tcgPlayerId": 549442,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/549442"
+      },
+      "flavorText": "\u201cYou're very strong. Do you work out?\u201d\n\u2014Olaf",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "51/204 \u2022 EN \u2022 4",
+      "fullName": "Marshmallow - Terrifying Snowman",
+      "fullText": "BEHEMOTH This character gets +1 \u00a4 for each\ncard in your hand.",
+      "fullTextSections": [
+        "BEHEMOTH This character gets +1 \u00a4 for each\ncard in your hand."
+      ],
+      "id": 742,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/51_d4318dd4d400e36a115575d5fa8e767561a7dcb8.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/51_28f46ab35974c487a0c76501d7af72ffbc008784.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/51_6615929761390dbac3a0e6f4caec4b515c6faddd.jpg"
+      },
+      "inkwell": false,
+      "isFoil": false,
+      "lore": 1,
+      "name": "Marshmallow",
+      "number": 51,
+      "rarity": "Uncommon",
+      "setCode": "4",
+      "simpleName": "marshmallow terrifying snowman",
+      "story": "Frozen",
+      "strength": 0,
+      "subtypes": [
+        "Storyborn",
+        "Ally"
+      ],
+      "subtypesText": "Storyborn \u2022 Ally",
+      "type": "Character",
+      "version": "Terrifying Snowman",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "effect": "When you play this character, you may exert chosen opposing character. That character can't ready at the start of their next turn unless they're at a location.",
+          "fullText": "IT LOOKS LIKE RAIN When you play this character,\nyou may exert chosen opposing character. That\ncharacter can't ready at the start of their next\nturn unless they're at a location.",
+          "name": "IT LOOKS LIKE RAIN",
+          "type": "triggered"
+        }
+      ],
+      "amount": 1,
+      "artists": [
+        "Samanta Erdini"
+      ],
+      "artistsText": "Samanta Erdini",
+      "code": "c0",
+      "color": "Amethyst",
+      "cost": 5,
+      "externalLinks": {
+        "cardTraderId": 286617,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/286617",
+        "cardmarketId": 767781,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Ursulas-Return/Pepa-Madrigal-Weather-Maker?language=1",
+        "tcgPlayerId": 548205,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/548205"
+      },
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "53/204 \u2022 EN \u2022 4",
+      "fullName": "Pepa Madrigal - Weather Maker",
+      "fullText": "IT LOOKS LIKE RAIN When you play this character,\nyou may exert chosen opposing character. That\ncharacter can't ready at the start of their next\nturn unless they're at a location.",
+      "fullTextSections": [
+        "IT LOOKS LIKE RAIN When you play this character,\nyou may exert chosen opposing character. That\ncharacter can't ready at the start of their next\nturn unless they're at a location."
+      ],
+      "id": 744,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/53_cdb056d03d03bca8c1b3007dd005dc20693397b0.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/53_f2a80dfd4a72806f2697dd560808d8c7e9b56b92.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/53_b55a3eb908cf5c45843f3821d6ad06f47c391b4e.jpg"
+      },
+      "inkwell": false,
+      "isFoil": false,
+      "lore": 1,
+      "name": "Pepa Madrigal",
+      "number": 53,
+      "rarity": "Rare",
+      "setCode": "4",
+      "simpleName": "pepa madrigal weather maker",
+      "story": "Encanto",
+      "strength": 1,
+      "subtypes": [
+        "Storyborn",
+        "Ally",
+        "Madrigal"
+      ],
+      "subtypesText": "Storyborn \u2022 Ally \u2022 Madrigal",
+      "type": "Character",
+      "version": "Weather Maker",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Evasive (Only characters with Evasive can\nchallenge this character.)",
+          "keyword": "Evasive",
+          "reminderText": "Only characters with Evasive can challenge this character.",
+          "type": "keyword"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "Kenneth Anderson"
+      ],
+      "artistsText": "Kenneth Anderson",
+      "code": "c3",
+      "color": "Amethyst",
+      "cost": 6,
+      "externalLinks": {
+        "cardTraderId": 286610,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/286610",
+        "cardmarketId": 767783,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Ursulas-Return/Tick-Tock-Ever-Present-Pursuer?language=1",
+        "tcgPlayerId": 547782,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/547782"
+      },
+      "flavorText": "\u201cThat cursed beast liked the taste of me so well\nhe's followed me ever since....\u201d\n\u2014Captain Hook",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "56/204 \u2022 EN \u2022 4",
+      "fullName": "Tick-Tock - Ever-Present Pursuer",
+      "fullText": "Evasive (Only characters with Evasive can\nchallenge this character.)",
+      "fullTextSections": [
+        "Evasive (Only characters with Evasive can\nchallenge this character.)"
+      ],
+      "id": 747,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/56_0a5fb204e14e6dc4a085c4bad9cc6a11bdb0aadf.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/56_f6c11aaa69b0acff1fbf8a95ef1012a7509e8137.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/56_cc679d6be118b7f5a8793e367efd8db00488e324.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "keywordAbilities": [
+        "Evasive"
+      ],
+      "lore": 1,
+      "name": "Tick-Tock",
+      "number": 56,
+      "rarity": "Common",
+      "setCode": "4",
+      "simpleName": "tick-tock ever-present pursuer",
+      "story": "Peter Pan",
+      "strength": 4,
+      "subtypes": [
+        "Storyborn",
+        "Ally"
+      ],
+      "subtypesText": "Storyborn \u2022 Ally",
+      "type": "Character",
+      "version": "Ever-Present Pursuer",
+      "willpower": 7
+    },
+    {
+      "abilities": [
+        {
+          "effect": "A character with cost 2 or more can \u27f3 to sing this song for free.",
+          "fullText": "(A character with cost 2 or more can \u27f3 to sing this\nsong for free.)",
+          "type": "static"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "Denny Minonne"
+      ],
+      "artistsText": "Denny Minonne",
+      "code": "c7",
+      "color": "Amethyst",
+      "cost": 2,
+      "effects": [
+        "Return chosen character, item, or location with cost 2\nor less to their player's hand."
+      ],
+      "externalLinks": {
+        "cardTraderId": 287289,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/287289",
+        "cardmarketId": 770297,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Ursulas-Return/Poor-Unfortunate-Souls?language=1",
+        "tcgPlayerId": 550518,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/550518"
+      },
+      "flavorText": "In pain, in need",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "60/204 \u2022 EN \u2022 4",
+      "fullName": "Poor Unfortunate Souls",
+      "fullText": "(A character with cost 2 or more can \u27f3 to sing this\nsong for free.)\nReturn chosen character, item, or location with cost 2\nor less to their player's hand.",
+      "fullTextSections": [
+        "(A character with cost 2 or more can \u27f3 to sing this\nsong for free.)",
+        "Return chosen character, item, or location with cost 2\nor less to their player's hand."
+      ],
+      "id": 751,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/60_1c9309e88ed16b42f88596b327039dccb18c4274.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/60_f181ded9a90c651117bb1dc74d0f955114258ba4.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/60_068031235e44346ea7aa3ec8903ad2d6bd530242.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "name": "Poor Unfortunate Souls",
+      "number": 60,
+      "rarity": "Common",
+      "setCode": "4",
+      "simpleName": "poor unfortunate souls",
+      "story": "The Little Mermaid",
+      "subtypes": [
+        "Song"
+      ],
+      "subtypesText": "Song",
+      "type": "Action"
+    },
+    {
+      "abilities": [
+        {
+          "effect": "At the start of your turn, if you have a character here gain 1 lore.",
+          "fullText": "OUR HOME At the start of your turn, if you have a character here gain 1 lore.",
+          "name": "OUR HOME",
+          "type": "triggered"
+        }
+      ],
+      "amount": 3,
+      "artists": [
+        "Rachel Elese"
+      ],
+      "artistsText": "Rachel Elese",
+      "code": "ce",
+      "color": "Amethyst",
+      "cost": 1,
+      "externalLinks": {
+        "cardTraderId": 286635,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/286635",
+        "cardmarketId": 767789,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Ursulas-Return/Casa-Madrigal-Casita?language=1",
+        "tcgPlayerId": 548207,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/548207"
+      },
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "67/204 \u2022 EN \u2022 4",
+      "fullName": "Casa Madrigal - Casita",
+      "fullText": "OUR HOME At the start of your turn, if you have a character here gain 1 lore.",
+      "fullTextSections": [
+        "OUR HOME At the start of your turn, if you have a character here gain 1 lore."
+      ],
+      "id": 758,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/67_3d46064e42602aab8851bf5e0743a12a9ea52f7c.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/67_04efa8bf67d5a3ab894b7b6496c79b21a158ca78.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/67_5640507cc1f18dffff1201bcc826ba01d6e6d07a.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 0,
+      "moveCost": 1,
+      "name": "Casa Madrigal",
+      "number": 67,
+      "rarity": "Common",
+      "setCode": "4",
+      "simpleName": "casa madrigal casita",
+      "story": "Encanto",
+      "type": "Location",
+      "version": "Casita",
+      "willpower": 6
+    }
+  ]
+}
