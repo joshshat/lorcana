@@ -1,0 +1,1891 @@
+{
+  "colors": [
+    "Emerald",
+    "Sapphire"
+  ],
+  "deckGroup": "S6",
+  "foilIds": [
+    1272,
+    1339
+  ],
+  "metadata": {
+    "formatVersion": "2.1.5",
+    "generatedOn": "2025-07-06T11:01:32",
+    "language": "en"
+  },
+  "name": "Genius Reinvented",
+  "type": "Starter Deck",
+  "cards": [
+    {
+      "abilities": [
+        {
+          "effect": "When you play this character, you may pay 1 \u2b21 to give chosen character +2 \u00a4 this turn.",
+          "fullText": "RAY OF HOPE When you play this character, you\nmay pay 1 \u2b21 to give chosen character +2 \u00a4 this\nturn.",
+          "name": "RAY OF HOPE",
+          "type": "triggered"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "Eri Welli"
+      ],
+      "artistsText": "Eri Welli",
+      "code": "gE",
+      "color": "Emerald",
+      "cost": 1,
+      "externalLinks": {
+        "cardTraderId": 294413,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/294413",
+        "cardmarketId": 781399,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Shimmering-Skies/Merryweather-Good-Fairy?language=1",
+        "tcgPlayerId": 559737,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/559737"
+      },
+      "flavorText": "\u201cThe most beautiful color is blue!\u201d",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "76/204 \u2022 EN \u2022 5",
+      "fullName": "Merryweather - Good Fairy",
+      "fullText": "RAY OF HOPE When you play this character, you\nmay pay 1 \u2b21 to give chosen character +2 \u00a4 this\nturn.",
+      "fullTextSections": [
+        "RAY OF HOPE When you play this character, you\nmay pay 1 \u2b21 to give chosen character +2 \u00a4 this\nturn."
+      ],
+      "id": 1032,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set5/cards/1468x2048/76_e2db0795b732d956e6a1ede69676b43eedf90850.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set5/cards/367x512/76_be60aaa5271e59d33d5027e782edea21780ce41b.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set5/masks/1468x2048/76_672e2ebd35c002aba9ca0c62b6f55525a8f151fe.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 1,
+      "name": "Merryweather",
+      "number": 76,
+      "rarity": "Common",
+      "setCode": "5",
+      "simpleName": "merryweather good fairy",
+      "story": "Sleeping Beauty",
+      "strength": 1,
+      "subtypes": [
+        "Storyborn",
+        "Ally",
+        "Fairy"
+      ],
+      "subtypesText": "Storyborn \u2022 Ally \u2022 Fairy",
+      "type": "Character",
+      "version": "Good Fairy",
+      "willpower": 2
+    },
+    {
+      "abilities": [
+        {
+          "effect": "When you play this character, if an opponent has more cards in their hand than you, you may draw a card.",
+          "fullText": "ONE STEP BEHIND When you play this character,\nif an opponent has more cards in their hand than\nyou, you may draw a card.",
+          "name": "ONE STEP BEHIND",
+          "type": "triggered"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "Lissette Carrera"
+      ],
+      "artistsText": "Lissette Carrera",
+      "code": "gS",
+      "color": "Emerald",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 294471,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/294471",
+        "cardmarketId": 781413,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Shimmering-Skies/Clarabelle-Contented-Wallflower?language=1",
+        "tcgPlayerId": 559513,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/559513"
+      },
+      "flavorText": "\u201cGolly! Those dancers can really moo-ve!\u201d",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "90/204 \u2022 EN \u2022 5",
+      "fullName": "Clarabelle - Contented Wallflower",
+      "fullText": "ONE STEP BEHIND When you play this character,\nif an opponent has more cards in their hand than\nyou, you may draw a card.",
+      "fullTextSections": [
+        "ONE STEP BEHIND When you play this character,\nif an opponent has more cards in their hand than\nyou, you may draw a card."
+      ],
+      "id": 1046,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set5/cards/1468x2048/90_a458b73fc178ce54daf2d5c79d9f60ae4bfefc75.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set5/cards/367x512/90_3c77740107868a40c8efe745002ef071a5d6d5f1.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set5/masks/1468x2048/90_256935965348e571520d1ee05d95329f67b2425e.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 1,
+      "name": "Clarabelle",
+      "number": 90,
+      "rarity": "Uncommon",
+      "setCode": "5",
+      "simpleName": "clarabelle contented wallflower",
+      "story": "Mickey Mouse & Friends",
+      "strength": 2,
+      "subtypes": [
+        "Storyborn",
+        "Ally"
+      ],
+      "subtypesText": "Storyborn \u2022 Ally",
+      "type": "Character",
+      "version": "Contented Wallflower",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "effect": "During opponents' turns, whenever one of your characters is banished, you may return chosen character to their player's hand.",
+          "fullText": "EMERALD LIGHT During opponents' turns, whenever\none of your characters is banished, you may return\nchosen character to their player's hand.",
+          "name": "EMERALD LIGHT",
+          "type": "triggered"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "Dustin Panzino"
+      ],
+      "artistsText": "Dustin Panzino",
+      "code": "h2",
+      "color": "Emerald",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 294430,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/294430",
+        "cardmarketId": 781423,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Shimmering-Skies/Emerald-Chromicon?language=1",
+        "tcgPlayerId": 560098,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/560098"
+      },
+      "flavorText": "\u201cTrust in the winds of change.\u201d\n\u2014Inscription",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "100/204 \u2022 EN \u2022 5",
+      "fullName": "Emerald Chromicon",
+      "fullText": "EMERALD LIGHT During opponents' turns, whenever\none of your characters is banished, you may return\nchosen character to their player's hand.",
+      "fullTextSections": [
+        "EMERALD LIGHT During opponents' turns, whenever\none of your characters is banished, you may return\nchosen character to their player's hand."
+      ],
+      "id": 1056,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set5/cards/1468x2048/100_c81e1759aa2a42df4659cb0ea92592148c668dab.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set5/cards/367x512/100_7c2adf073fff8bdc8cd2808890d4b73fb09c9810.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set5/masks/1468x2048/100_4ddc7a3a7159c370742735653794fba6ac0bf584.jpg"
+      },
+      "inkwell": false,
+      "isFoil": false,
+      "name": "Emerald Chromicon",
+      "number": 100,
+      "rarity": "Uncommon",
+      "setCode": "5",
+      "simpleName": "emerald chromicon",
+      "story": "Lorcana",
+      "type": "Item"
+    },
+    {
+      "amount": 2,
+      "artists": [
+        "Matt Chapman"
+      ],
+      "artistsText": "Matt Chapman",
+      "code": "hR",
+      "color": "Sapphire",
+      "cost": 5,
+      "externalLinks": {
+        "cardTraderId": 292563,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/292563",
+        "cardmarketId": 781474,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Shimmering-Skies/Ludwig-Von-Drake-SelfProclaimed-Genius?language=1",
+        "tcgPlayerId": 557728,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/557728"
+      },
+      "flavorText": "\u201cSo you see, there's a dark void at the edge of\nLorcana. A complete absence of electromagnetic\nradiation! What's it made of? I don't know! The\nlight's just gone. Kaput!\u201d",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "151/204 \u2022 EN \u2022 5",
+      "fullName": "Ludwig Von Drake - Self-Proclaimed Genius",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 1107,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set5/cards/1468x2048/151_dbb2c707781c824ec1b23e286e25355e5b0d857a.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set5/cards/367x512/151_e16b392e9b663e675da26eb261f1b2c557b215ac.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set5/masks/1468x2048/151_2c1d880679c55de18014090d8c08ed266ba1bf34.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 3,
+      "name": "Ludwig Von Drake",
+      "number": 151,
+      "rarity": "Uncommon",
+      "setCode": "5",
+      "simpleName": "ludwig von drake self-proclaimed genius",
+      "story": "Mickey Mouse & Friends",
+      "strength": 4,
+      "subtypes": [
+        "Storyborn",
+        "Ally"
+      ],
+      "subtypesText": "Storyborn \u2022 Ally",
+      "type": "Character",
+      "version": "Self-Proclaimed Genius",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "costs": [
+            "1 \u2b21"
+          ],
+          "costsText": "1 \u2b21",
+          "effect": "This character gets +1 \u00a4 this turn.",
+          "fullText": "NEED A HAND? 1 \u2b21 \u2014 This character gets +1 \u00a4\nthis turn.",
+          "name": "NEED A HAND?",
+          "type": "activated"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "C\u00e9sar Vergara"
+      ],
+      "artistsText": "C\u00e9sar Vergara",
+      "code": "jL",
+      "color": "Emerald",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 310014,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/310014",
+        "cardmarketId": 798996,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Azurite-Sea/Stitch-Little-Trickster?language=1",
+        "tcgPlayerId": 592007,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/592007"
+      },
+      "flavorText": "Always ready in an emergency\u2014usually because\nhe caused it.",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "26/204 \u2022 EN \u2022 6",
+      "fullName": "Stitch - Little Trickster",
+      "fullText": "NEED A HAND? 1 \u2b21 \u2014 This character gets +1 \u00a4\nthis turn.",
+      "fullTextSections": [
+        "NEED A HAND? 1 \u2b21 \u2014 This character gets +1 \u00a4\nthis turn."
+      ],
+      "id": 1225,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/26_4b66573bcfc20857e4be463b7179e9febca4deca.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/26_91f31b5e1a07452af95f5a178636d7a481ee9416.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/26_0d9486e186cf46ec440c1737027da6f03522bce7.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 1,
+      "name": "Stitch",
+      "number": 26,
+      "rarity": "Common",
+      "setCode": "6",
+      "simpleName": "stitch little trickster",
+      "story": "Lilo & Stitch",
+      "strength": 1,
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Alien"
+      ],
+      "subtypesText": "Storyborn \u2022 Hero \u2022 Alien",
+      "type": "Character",
+      "version": "Little Trickster",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Evasive (Only characters with Evasive can\nchallenge this character.)",
+          "keyword": "Evasive",
+          "reminderText": "Only characters with Evasive can challenge this character.",
+          "type": "keyword"
+        },
+        {
+          "effect": "When you play this character, you may pay 2 \u2b21 to gain lore equal to the damage on chosen opposing character.",
+          "fullText": "STOP WHINING, WOMAN UP When you play this\ncharacter, you may pay 2 \u2b21 to gain lore equal to\nthe damage on chosen opposing character.",
+          "name": "STOP WHINING, WOMAN UP",
+          "type": "triggered"
+        }
+      ],
+      "amount": 1,
+      "artists": [
+        "Alex Accorsi"
+      ],
+      "artistsText": "Alex Accorsi",
+      "code": "kw",
+      "color": "Emerald",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 302035,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/302035",
+        "cardmarketId": 794850,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Azurite-Sea/Go-Go-Tomago-Darting-Dynamo?language=1",
+        "tcgPlayerId": 578177,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/578177"
+      },
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "73/204 \u2022 EN \u2022 6",
+      "fullName": "Go Go Tomago - Darting Dynamo",
+      "fullText": "Evasive (Only characters with Evasive can\nchallenge this character.)\nSTOP WHINING, WOMAN UP When you play this\ncharacter, you may pay 2 \u2b21 to gain lore equal to\nthe damage on chosen opposing character.",
+      "fullTextSections": [
+        "Evasive (Only characters with Evasive can\nchallenge this character.)",
+        "STOP WHINING, WOMAN UP When you play this\ncharacter, you may pay 2 \u2b21 to gain lore equal to\nthe damage on chosen opposing character."
+      ],
+      "id": 1272,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/73_131ae1daed1ae4f854092719edbd6d8a5f0b3ae3.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/73_3a2c10b8df8cf10231ee63691cca363275973de7.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/73_6c7cec02a1f393016e6f09418b2d4fd076860d3c.jpg"
+      },
+      "inkwell": true,
+      "isFoil": true,
+      "keywordAbilities": [
+        "Evasive"
+      ],
+      "lore": 1,
+      "name": "Go Go Tomago",
+      "number": 73,
+      "rarity": "Rare",
+      "setCode": "6",
+      "simpleName": "go go tomago darting dynamo",
+      "story": "Big Hero 6",
+      "strength": 2,
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Inventor"
+      ],
+      "subtypesText": "Storyborn \u2022 Hero \u2022 Inventor",
+      "type": "Character",
+      "version": "Darting Dynamo",
+      "willpower": 2
+    },
+    {
+      "abilities": [
+        {
+          "effect": "When you play this character, you may pay 2 \u2b21 to have each opponent choose and discard a card.",
+          "fullText": "HERE'S THE BEST PART When you play this\ncharacter, you may pay 2 \u2b21 to have each\nopponent choose and discard a card.",
+          "name": "HERE'S THE BEST PART",
+          "type": "triggered"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "Aristeidis Zentelis"
+      ],
+      "artistsText": "Aristeidis Zentelis",
+      "code": "kx",
+      "color": "Emerald",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 302032,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/302032",
+        "cardmarketId": 794851,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Azurite-Sea/Honey-Lemon-Chemical-Genius?language=1",
+        "tcgPlayerId": 578178,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/578178"
+      },
+      "flavorText": "\u201cYou're going to love this!\u201d",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "74/204 \u2022 EN \u2022 6",
+      "fullName": "Honey Lemon - Chemical Genius",
+      "fullText": "HERE'S THE BEST PART When you play this\ncharacter, you may pay 2 \u2b21 to have each\nopponent choose and discard a card.",
+      "fullTextSections": [
+        "HERE'S THE BEST PART When you play this\ncharacter, you may pay 2 \u2b21 to have each\nopponent choose and discard a card."
+      ],
+      "id": 1273,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/74_42630ddf2041b5db7b6f93a7efe75f9ebeea2839.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/74_23673668532e2d3dba70f51f3fb4ca2b685cb00a.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/74_85405c846bf4115fd6ab7284c72d5b226b41d4cc.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 2,
+      "name": "Honey Lemon",
+      "number": 74,
+      "promoIds": [
+        1426
+      ],
+      "rarity": "Uncommon",
+      "setCode": "6",
+      "simpleName": "honey lemon chemical genius",
+      "story": "Big Hero 6",
+      "strength": 1,
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Inventor"
+      ],
+      "subtypesText": "Storyborn \u2022 Hero \u2022 Inventor",
+      "type": "Character",
+      "version": "Chemical Genius",
+      "willpower": 1
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Whenever this character is challenged, gain 2 lore.",
+          "fullText": "HOW COOL IS THAT Whenever this character is\nchallenged, gain 2 lore.",
+          "name": "HOW COOL IS THAT",
+          "type": "triggered"
+        }
+      ],
+      "amount": 3,
+      "artists": [
+        "Cam Kendell",
+        "Danielle Powers"
+      ],
+      "artistsText": "Cam Kendell / Danielle Powers",
+      "code": "ky",
+      "color": "Emerald",
+      "cost": 1,
+      "externalLinks": {
+        "cardTraderId": 302037,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/302037",
+        "cardmarketId": 794852,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Azurite-Sea/Fred-Mascot-by-Day?language=1",
+        "tcgPlayerId": 578186,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/578186"
+      },
+      "flavorText": "\u201c...but by night...I am also a school mascot.\u201d",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "75/204 \u2022 EN \u2022 6",
+      "fullName": "Fred - Mascot by Day",
+      "fullText": "HOW COOL IS THAT Whenever this character is\nchallenged, gain 2 lore.",
+      "fullTextSections": [
+        "HOW COOL IS THAT Whenever this character is\nchallenged, gain 2 lore."
+      ],
+      "id": 1274,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/75_15ff68d69821c64d82c0dc08f24a1056abb9357b.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/75_9a2c9059720901fd4011f7f15dd70bc8ef1972db.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/75_24ee4c8c2fcfe0b0c3e8ab113e956cfeb30dddb3.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 1,
+      "name": "Fred",
+      "number": 75,
+      "rarity": "Common",
+      "setCode": "6",
+      "simpleName": "fred mascot by day",
+      "story": "Big Hero 6",
+      "strength": 1,
+      "subtypes": [
+        "Storyborn",
+        "Hero"
+      ],
+      "subtypesText": "Storyborn \u2022 Hero",
+      "type": "Character",
+      "version": "Mascot by Day",
+      "willpower": 1
+    },
+    {
+      "amount": 2,
+      "artists": [
+        "Brittney Hackett"
+      ],
+      "artistsText": "Brittney Hackett",
+      "code": "kA",
+      "color": "Emerald",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 309972,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/309972",
+        "cardmarketId": 799029,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Azurite-Sea/Dawson-Basils-Assistant?language=1",
+        "tcgPlayerId": 591115,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/591115"
+      },
+      "flavorText": "\u201cBy Jove, he must be around here somewhere.\nBasil! Basil! Shout if\u2014aaahhh!\u201d",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "77/204 \u2022 EN \u2022 6",
+      "fullName": "Dawson - Basil's Assistant",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 1276,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/77_c155c16f482b2e461c05f54a066e2ce4e4941649.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/77_0e291868e09f9c62a58041b43c61a58a441517e7.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/77_6d826f367e3be6eb22d9255045e3ddae0c745308.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 2,
+      "name": "Dawson",
+      "number": 77,
+      "rarity": "Common",
+      "setCode": "6",
+      "simpleName": "dawson basil's assistant",
+      "story": "The Great Mouse Detective",
+      "strength": 3,
+      "subtypes": [
+        "Storyborn",
+        "Ally"
+      ],
+      "subtypesText": "Storyborn \u2022 Ally",
+      "type": "Character",
+      "version": "Basil's Assistant",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Ward (Opponents can't choose this character\nexcept to challenge.)",
+          "keyword": "Ward",
+          "reminderText": "Opponents can't choose this character except to challenge.",
+          "type": "keyword"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "Veronica Di Lorenzo",
+        "Livio Cacciatore"
+      ],
+      "artistsText": "Veronica Di Lorenzo / Livio Cacciatore",
+      "code": "kB",
+      "color": "Emerald",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 310087,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/310087",
+        "cardmarketId": 799030,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Azurite-Sea/Heathcliff-Stoic-Butler?language=1",
+        "tcgPlayerId": 593010,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/593010"
+      },
+      "flavorText": "Loyal butler, training target, helicopter pilot\u2014and\ncompletely unflappable.",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "78/204 \u2022 EN \u2022 6",
+      "fullName": "Heathcliff - Stoic Butler",
+      "fullText": "Ward (Opponents can't choose this character\nexcept to challenge.)",
+      "fullTextSections": [
+        "Ward (Opponents can't choose this character\nexcept to challenge.)"
+      ],
+      "id": 1277,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/78_c7457ad832ae9e59e0a6501c787628c81b01dd92.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/78_c54efcf23495451aafd95b0d70f52fb8c455867c.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/78_046520536cf4aa89e3d97c4ce9950cb52a5e08c3.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "keywordAbilities": [
+        "Ward"
+      ],
+      "lore": 2,
+      "name": "Heathcliff",
+      "number": 78,
+      "rarity": "Common",
+      "setCode": "6",
+      "simpleName": "heathcliff stoic butler",
+      "story": "Big Hero 6",
+      "strength": 3,
+      "subtypes": [
+        "Storyborn",
+        "Ally"
+      ],
+      "subtypesText": "Storyborn \u2022 Ally",
+      "type": "Character",
+      "version": "Stoic Butler",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Evasive (Only characters with Evasive can\nchallenge this character.)",
+          "keyword": "Evasive",
+          "reminderText": "Only characters with Evasive can challenge this character.",
+          "type": "keyword"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "Alice Pisoni"
+      ],
+      "artistsText": "Alice Pisoni",
+      "code": "kC",
+      "color": "Emerald",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 305489,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/305489",
+        "cardmarketId": 799031,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Azurite-Sea/Basil-Hypnotized-Mouse?language=1",
+        "tcgPlayerId": 587197,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/587197"
+      },
+      "flavorText": "\u201cHmm. Footprints from a large...owl? With\ndroplets of water? Clearly some avian menace\nhas crossed the Azurite Sea and absconded with\nthe crown!\u201d",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "79/204 \u2022 EN \u2022 6",
+      "fullName": "Basil - Hypnotized Mouse",
+      "fullText": "Evasive (Only characters with Evasive can\nchallenge this character.)",
+      "fullTextSections": [
+        "Evasive (Only characters with Evasive can\nchallenge this character.)"
+      ],
+      "id": 1278,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/79_c8afb70decb531da33cefc20202c2ed2a36a6bcb.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/79_2bf1b7b945e516c8561f50ca1833fcf72988abfe.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/79_a4233021bf6bfcf0a105e0733a041cdb09df1b8c.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "keywordAbilities": [
+        "Evasive"
+      ],
+      "lore": 1,
+      "name": "Basil",
+      "number": 79,
+      "rarity": "Common",
+      "setCode": "6",
+      "simpleName": "basil hypnotized mouse",
+      "story": "The Great Mouse Detective",
+      "strength": 3,
+      "subtypes": [
+        "Dreamborn",
+        "Hero",
+        "Detective"
+      ],
+      "subtypesText": "Dreamborn \u2022 Hero \u2022 Detective",
+      "type": "Character",
+      "version": "Hypnotized Mouse",
+      "willpower": 2
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Ward (Opponents can't choose this character\nexcept to challenge.)",
+          "keyword": "Ward",
+          "reminderText": "Opponents can't choose this character except to challenge.",
+          "type": "keyword"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "Gaku Kumatori"
+      ],
+      "artistsText": "Gaku Kumatori",
+      "code": "kG",
+      "color": "Emerald",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 310028,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/310028",
+        "cardmarketId": 799034,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Azurite-Sea/Prince-Phillip-Royal-Explorer?language=1",
+        "tcgPlayerId": 593039,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/593039"
+      },
+      "flavorText": "A clear head and a calm hand will see you through\nuncharted waters.",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "83/204 \u2022 EN \u2022 6",
+      "fullName": "Prince Phillip - Royal Explorer",
+      "fullText": "Ward (Opponents can't choose this character\nexcept to challenge.)",
+      "fullTextSections": [
+        "Ward (Opponents can't choose this character\nexcept to challenge.)"
+      ],
+      "id": 1282,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/83_43f44c82964075224c52512c99af549822bc091e.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/83_36d4fd4b8b970b42c2d7d34c921feaac7f854b8a.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/83_a6bff5a8f2bb535a3766ac77fb396d8c02139b8f.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "keywordAbilities": [
+        "Ward"
+      ],
+      "lore": 2,
+      "name": "Prince Phillip",
+      "number": 83,
+      "rarity": "Uncommon",
+      "setCode": "6",
+      "simpleName": "prince phillip royal explorer",
+      "story": "Sleeping Beauty",
+      "strength": 3,
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Prince"
+      ],
+      "subtypesText": "Storyborn \u2022 Hero \u2022 Prince",
+      "type": "Character",
+      "version": "Royal Explorer",
+      "willpower": 2
+    },
+    {
+      "abilities": [
+        {
+          "effect": "When you play this character, if an opponent has an item in play, gain 1 lore.",
+          "fullText": "AN EYE FOR TECH When you play this character,\nif an opponent has an item in play, gain 1 lore.",
+          "name": "AN EYE FOR TECH",
+          "type": "triggered"
+        }
+      ],
+      "amount": 3,
+      "artists": [
+        "Diogo Saito"
+      ],
+      "artistsText": "Diogo Saito",
+      "code": "kK",
+      "color": "Emerald",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 306635,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/306635",
+        "cardmarketId": 799037,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Azurite-Sea/Alistair-Krei-Ambitious-Entrepreneur?language=1",
+        "tcgPlayerId": 588368,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/588368"
+      },
+      "flavorText": "\u201cSleek yet strong...These inkrunners are an\nextraordinary feat of engineering.\u201d",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "87/204 \u2022 EN \u2022 6",
+      "fullName": "Alistair Krei - Ambitious Entrepreneur",
+      "fullText": "AN EYE FOR TECH When you play this character,\nif an opponent has an item in play, gain 1 lore.",
+      "fullTextSections": [
+        "AN EYE FOR TECH When you play this character,\nif an opponent has an item in play, gain 1 lore."
+      ],
+      "id": 1286,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/87_486aabebca63f6924c4ead520d12849c00538595.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/87_dc43ddb98433f59d5eb42068277e8c357bd7adf4.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/87_89eb2598f539472a6c281e2ed8e9d050767c7a78.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 1,
+      "name": "Alistair Krei",
+      "number": 87,
+      "rarity": "Common",
+      "setCode": "6",
+      "simpleName": "alistair krei ambitious entrepreneur",
+      "story": "Big Hero 6",
+      "strength": 2,
+      "subtypes": [
+        "Storyborn",
+        "Inventor"
+      ],
+      "subtypesText": "Storyborn \u2022 Inventor",
+      "type": "Character",
+      "version": "Ambitious Entrepreneur",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Ward (Opponents can't choose this character\nexcept to challenge.)",
+          "keyword": "Ward",
+          "reminderText": "Opponents can't choose this character except to challenge.",
+          "type": "keyword"
+        },
+        {
+          "effect": "Whenever this character quests, chosen character gains Ward until the start of your next turn.",
+          "fullText": "CLEVER DESIGN Whenever this character quests,\nchosen character gains Ward until the start of\nyour next turn.",
+          "name": "CLEVER DESIGN",
+          "type": "triggered"
+        }
+      ],
+      "amount": 1,
+      "artists": [
+        "Max Ulichney"
+      ],
+      "artistsText": "Max Ulichney",
+      "code": "kM",
+      "color": "Emerald",
+      "cost": 5,
+      "externalLinks": {
+        "cardTraderId": 310093,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/310093",
+        "cardmarketId": 799039,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Azurite-Sea/Goofy-Expert-Shipwright?language=1",
+        "tcgPlayerId": 591119,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/591119"
+      },
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "89/204 \u2022 EN \u2022 6",
+      "fullName": "Goofy - Expert Shipwright",
+      "fullText": "Ward (Opponents can't choose this character\nexcept to challenge.)\nCLEVER DESIGN Whenever this character quests,\nchosen character gains Ward until the start of\nyour next turn.",
+      "fullTextSections": [
+        "Ward (Opponents can't choose this character\nexcept to challenge.)",
+        "CLEVER DESIGN Whenever this character quests,\nchosen character gains Ward until the start of\nyour next turn."
+      ],
+      "id": 1288,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/89_7c657d483ee3283832487d111425b6afa1be66f3.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/89_fb4aa62fc58234c806c4fa4ec54d6d39f57881b8.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/89_0fa3eb46be19b8474733d8391039fdbd8bfd2763.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "keywordAbilities": [
+        "Ward"
+      ],
+      "lore": 3,
+      "name": "Goofy",
+      "number": 89,
+      "rarity": "Rare",
+      "setCode": "6",
+      "simpleName": "goofy expert shipwright",
+      "story": "Mickey Mouse & Friends",
+      "strength": 1,
+      "subtypes": [
+        "Dreamborn",
+        "Hero",
+        "Inventor"
+      ],
+      "subtypesText": "Dreamborn \u2022 Hero \u2022 Inventor",
+      "type": "Character",
+      "version": "Expert Shipwright",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "effect": "A character with cost 2 or more can \u27f3 to sing this song for free.",
+          "fullText": "(A character with cost 2 or more can \u27f3 to sing this\nsong for free.)",
+          "type": "static"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "Domenico Russo"
+      ],
+      "artistsText": "Domenico Russo",
+      "code": "kS",
+      "color": "Emerald",
+      "cost": 2,
+      "effects": [
+        "Chosen opposing character can't quest during their\nnext turn. Draw a card."
+      ],
+      "externalLinks": {
+        "cardTraderId": 305487,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/305487",
+        "cardmarketId": 794855,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Azurite-Sea/Heffalumps-and-Woozles?language=1",
+        "tcgPlayerId": 587355,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/587355"
+      },
+      "flavorText": "If honey's what you covet, you'll find that they love it",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "95/204 \u2022 EN \u2022 6",
+      "fullName": "Heffalumps and Woozles",
+      "fullText": "(A character with cost 2 or more can \u27f3 to sing this\nsong for free.)\nChosen opposing character can't quest during their\nnext turn. Draw a card.",
+      "fullTextSections": [
+        "(A character with cost 2 or more can \u27f3 to sing this\nsong for free.)",
+        "Chosen opposing character can't quest during their\nnext turn. Draw a card."
+      ],
+      "id": 1294,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/95_c56f0926fdc4b76fb2697b8cd048a7d926f947cb.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/95_7ce3ff252de634fc9512435edb3c1e4e44147694.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/95_420757ba2ea7c514898a6fa5085c1fde812c70ce.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "name": "Heffalumps and Woozles",
+      "number": 95,
+      "rarity": "Common",
+      "setCode": "6",
+      "simpleName": "heffalumps and woozles",
+      "story": "Winnie the Pooh",
+      "subtypes": [
+        "Song"
+      ],
+      "subtypesText": "Song",
+      "type": "Action"
+    },
+    {
+      "amount": 1,
+      "artists": [
+        "Michaela Martin"
+      ],
+      "artistsText": "Michaela Martin",
+      "code": "kU",
+      "color": "Emerald",
+      "cost": 3,
+      "effects": [
+        "Ready chosen character."
+      ],
+      "enchantedId": 1412,
+      "externalLinks": {
+        "cardTraderId": 309995,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/309995",
+        "cardmarketId": 799046,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Azurite-Sea/You-Came-Back-V1?language=1",
+        "tcgPlayerId": 591997,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/591997"
+      },
+      "flavorText": "\u201cNobody gets left behind.\u201d\n\u2014Stitch",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "97/204 \u2022 EN \u2022 6",
+      "fullName": "You Came Back",
+      "fullText": "Ready chosen character.",
+      "fullTextSections": [
+        "Ready chosen character."
+      ],
+      "id": 1296,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/97_db85c0995a28390edf3581ea56998d2c1605d6a3.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/97_d15b66bdd89ca6b5e1c48a8171df577e85277df3.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/97_e4eadb646eabb208ae215336ceabcb72d8de1474.jpg"
+      },
+      "inkwell": false,
+      "isFoil": false,
+      "name": "You Came Back",
+      "number": 97,
+      "rarity": "Rare",
+      "setCode": "6",
+      "simpleName": "you came back",
+      "story": "Lilo & Stitch",
+      "type": "Action"
+    },
+    {
+      "abilities": [
+        {
+          "effect": "This item enters play exerted.",
+          "fullText": "HAPPY FACE This item enters play exerted.",
+          "name": "HAPPY FACE",
+          "type": "static"
+        },
+        {
+          "costs": [
+            "\u27f3",
+            "Banish this item"
+          ],
+          "costsText": "\u27f3, Banish this item",
+          "effect": "Choose one: \u2022 Banish chosen item. \u2022 Banish chosen damaged character.",
+          "fullText": "DESTROY! \u27f3, Banish this item \u2014 Choose one:\n\u2022 Banish chosen item.\n\u2022 Banish chosen damaged character.",
+          "name": "DESTROY!",
+          "type": "activated"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "Kamil Murzyn"
+      ],
+      "artistsText": "Kamil Murzyn",
+      "code": "kV",
+      "color": "Emerald",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 306651,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/306651",
+        "cardmarketId": 799047,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Azurite-Sea/Megabot?language=1",
+        "tcgPlayerId": 588322,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/588322"
+      },
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "98/204 \u2022 EN \u2022 6",
+      "fullName": "MegaBot",
+      "fullText": "HAPPY FACE This item enters play exerted.\nDESTROY! \u27f3, Banish this item \u2014 Choose one:\n\u2022 Banish chosen item.\n\u2022 Banish chosen damaged character.",
+      "fullTextSections": [
+        "HAPPY FACE This item enters play exerted.",
+        "DESTROY! \u27f3, Banish this item \u2014 Choose one:\n\u2022 Banish chosen item.\n\u2022 Banish chosen damaged character."
+      ],
+      "id": 1297,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/98_cd66293732af9b0f4daac749e8aed63e64ba8b30.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/98_0a8f8dfb0716d8a42ed893570bf28b516abf819c.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/98_bb84b0113b6cb14996e60e94a0cd1a1cb93df2ef.jpg"
+      },
+      "inkwell": false,
+      "isFoil": false,
+      "name": "MegaBot",
+      "number": 98,
+      "rarity": "Uncommon",
+      "setCode": "6",
+      "simpleName": "megabot",
+      "story": "Big Hero 6",
+      "type": "Item"
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Support (Whenever this character quests, you\nmay add their \u00a4 to another chosen character's\n\u00a4 this turn.)",
+          "keyword": "Support",
+          "reminderText": "Whenever this character quests, you may add their \u00a4 to another chosen character's \u00a4 this turn.",
+          "type": "keyword"
+        }
+      ],
+      "amount": 3,
+      "artists": [
+        "Gwawi"
+      ],
+      "artistsText": "Gwawi",
+      "code": "ly",
+      "color": "Sapphire",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 309988,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/309988",
+        "cardmarketId": 799104,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Azurite-Sea/BEN-Eccentric-Robot?language=1",
+        "tcgPlayerId": 592999,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/592999"
+      },
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "137/204 \u2022 EN \u2022 6",
+      "fullName": "B.E.N. - Eccentric Robot",
+      "fullText": "Support (Whenever this character quests, you\nmay add their \u00a4 to another chosen character's\n\u00a4 this turn.)",
+      "fullTextSections": [
+        "Support (Whenever this character quests, you\nmay add their \u00a4 to another chosen character's\n\u00a4 this turn.)"
+      ],
+      "id": 1336,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/137_f1ea252c90c8dab450b961fa7763d56e3b1c129c.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/137_569611339442d7a14e1a7c00c0e7153baa60846b.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/137_b6b15e5ba03ab594150e88415c3a816558e63096.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "keywordAbilities": [
+        "Support"
+      ],
+      "lore": 2,
+      "name": "B.E.N.",
+      "number": 137,
+      "rarity": "Common",
+      "setCode": "6",
+      "simpleName": "ben eccentric robot",
+      "story": "Treasure Planet",
+      "strength": 4,
+      "subtypes": [
+        "Storyborn",
+        "Ally",
+        "Robot",
+        "Pirate"
+      ],
+      "subtypesText": "Storyborn \u2022 Ally \u2022 Robot \u2022 Pirate",
+      "type": "Character",
+      "version": "Eccentric Robot",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Whenever this character quests, chosen Inventor character gets +1 \u25ca this turn.",
+          "fullText": "HAPPY TO HELP Whenever this character quests,\nchosen Inventor character gets +1 \u25ca this turn.",
+          "name": "HAPPY TO HELP",
+          "type": "triggered"
+        }
+      ],
+      "amount": 3,
+      "artists": [
+        "Kendall Hale"
+      ],
+      "artistsText": "Kendall Hale",
+      "code": "lz",
+      "color": "Sapphire",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 309989,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/309989",
+        "cardmarketId": 799105,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Azurite-Sea/Aunt-Cass-Biggest-Fan?language=1",
+        "tcgPlayerId": 591989,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/591989"
+      },
+      "flavorText": "\u201cAll right, geniuses, let's feed those hungry brains.\u201d",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "138/204 \u2022 EN \u2022 6",
+      "fullName": "Aunt Cass - Biggest Fan",
+      "fullText": "HAPPY TO HELP Whenever this character quests,\nchosen Inventor character gets +1 \u25ca this turn.",
+      "fullTextSections": [
+        "HAPPY TO HELP Whenever this character quests,\nchosen Inventor character gets +1 \u25ca this turn."
+      ],
+      "id": 1337,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/138_0192e14d24e4a57a463956e43a4751ed2c03ef55.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/138_c5ed5b17f19afe2da029e6a477d0295705b56f50.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/138_59df4b77e790e6d5cf7547cd53591fa1feacd013.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 1,
+      "name": "Aunt Cass",
+      "number": 138,
+      "rarity": "Common",
+      "setCode": "6",
+      "simpleName": "aunt cass biggest fan",
+      "story": "Big Hero 6",
+      "strength": 1,
+      "subtypes": [
+        "Storyborn",
+        "Mentor"
+      ],
+      "subtypesText": "Storyborn \u2022 Mentor",
+      "type": "Character",
+      "version": "Biggest Fan",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Shift 4 (You may pay 4 \u2b21 to play this on\ntop of one of your characters named Gadget\nHackwrench.)",
+          "keyword": "Shift",
+          "keywordValue": "4",
+          "keywordValueNumber": 4,
+          "reminderText": "You may pay 4 \u2b21 to play this on top of one of your characters named Gadget Hackwrench.",
+          "type": "keyword"
+        },
+        {
+          "effect": "While you have 3 or more items in play, you pay 1 \u2b21 less to play Inventor characters.",
+          "fullText": "MECHANICALLY SAVVY While you have 3 or more\nitems in play, you pay 1 \u2b21 less to play Inventor\ncharacters.",
+          "name": "MECHANICALLY SAVVY",
+          "type": "static"
+        }
+      ],
+      "amount": 1,
+      "artists": [
+        "Alex Accorsi"
+      ],
+      "artistsText": "Alex Accorsi",
+      "code": "lB",
+      "color": "Sapphire",
+      "cost": 6,
+      "enchantedId": 1416,
+      "externalLinks": {
+        "cardTraderId": 302036,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/302036",
+        "cardmarketId": 794861,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Azurite-Sea/Gadget-Hackwrench-Brilliant-Bosun-V1?language=1",
+        "tcgPlayerId": 578189,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/578189"
+      },
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "140/204 \u2022 EN \u2022 6",
+      "fullName": "Gadget Hackwrench - Brilliant Bosun",
+      "fullText": "Shift 4 (You may pay 4 \u2b21 to play this on\ntop of one of your characters named Gadget\nHackwrench.)\nMECHANICALLY SAVVY While you have 3 or more\nitems in play, you pay 1 \u2b21 less to play Inventor\ncharacters.",
+      "fullTextSections": [
+        "Shift 4 (You may pay 4 \u2b21 to play this on\ntop of one of your characters named Gadget\nHackwrench.)",
+        "MECHANICALLY SAVVY While you have 3 or more\nitems in play, you pay 1 \u2b21 less to play Inventor\ncharacters."
+      ],
+      "id": 1339,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/140_5a91cc88eeae019847ce356151a99f54e392c844.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/140_370e32b57cc90dfe68cf58148c5ca98987af401e.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/140_6e91c02d7091ed9f280377acecea58090983e8a9.jpg"
+      },
+      "inkwell": true,
+      "isFoil": true,
+      "keywordAbilities": [
+        "Shift"
+      ],
+      "lore": 3,
+      "name": "Gadget Hackwrench",
+      "number": 140,
+      "rarity": "Super Rare",
+      "setCode": "6",
+      "simpleName": "gadget hackwrench brilliant bosun",
+      "story": "Chip 'n Dale: Rescue Rangers",
+      "strength": 3,
+      "subtypes": [
+        "Floodborn",
+        "Ally",
+        "Inventor"
+      ],
+      "subtypesText": "Floodborn \u2022 Ally \u2022 Inventor",
+      "type": "Character",
+      "version": "Brilliant Bosun",
+      "willpower": 6
+    },
+    {
+      "abilities": [
+        {
+          "effect": "When you play this character, put chosen character of yours into your inkwell facedown and exerted.",
+          "fullText": "REPORTING FOR DUTY When you play this\ncharacter, put chosen character of yours into your\ninkwell facedown and exerted.",
+          "name": "REPORTING FOR DUTY",
+          "type": "triggered"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "Heidi Neunhoffer"
+      ],
+      "artistsText": "Heidi Neunhoffer",
+      "code": "lF",
+      "color": "Sapphire",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 306654,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/306654",
+        "cardmarketId": 794864,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Azurite-Sea/Pleakley-Scientific-Expert?language=1",
+        "tcgPlayerId": 588341,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/588341"
+      },
+      "flavorText": "\u201cAs the duly appointed representative for the\nGalactic Council, I volunteer for this assignment!\u201d",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "144/204 \u2022 EN \u2022 6",
+      "fullName": "Pleakley - Scientific Expert",
+      "fullText": "REPORTING FOR DUTY When you play this\ncharacter, put chosen character of yours into your\ninkwell facedown and exerted.",
+      "fullTextSections": [
+        "REPORTING FOR DUTY When you play this\ncharacter, put chosen character of yours into your\ninkwell facedown and exerted."
+      ],
+      "id": 1343,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/144_2f688d151abfd5feccb5104aca388a8331551298.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/144_b8e6402482621872738e7aeda0abb9b2cb02d6b6.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/144_04f55ed6e6c5ee5e9f750eab8028e56fa438786e.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 1,
+      "name": "Pleakley",
+      "number": 144,
+      "rarity": "Uncommon",
+      "setCode": "6",
+      "simpleName": "pleakley scientific expert",
+      "story": "Lilo & Stitch",
+      "strength": 3,
+      "subtypes": [
+        "Storyborn",
+        "Ally",
+        "Alien"
+      ],
+      "subtypesText": "Storyborn \u2022 Ally \u2022 Alien",
+      "type": "Character",
+      "version": "Scientific Expert",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "costs": [
+            "\u27f3",
+            "2 \u2b21"
+          ],
+          "costsText": "\u27f3, 2 \u2b21",
+          "effect": "Search your deck for an item card or a Robot character card and reveal it to all players. Shuffle your deck and put that card on top of it.",
+          "fullText": "SWEET TECH \u27f3, 2 \u2b21 \u2014 Search your deck for an item\ncard or a Robot character card and reveal it to all\nplayers. Shuffle your deck and put that card on top of it.",
+          "name": "SWEET TECH",
+          "type": "activated"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "Denny Minonne"
+      ],
+      "artistsText": "Denny Minonne",
+      "code": "lG",
+      "color": "Sapphire",
+      "cost": 3,
+      "externalLinks": {
+        "cardTraderId": 302034,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/302034",
+        "cardmarketId": 794865,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Azurite-Sea/Hiro-Hamada-Robotics-Prodigy?language=1",
+        "tcgPlayerId": 578190,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/578190"
+      },
+      "flavorText": "\u201cA couple more tweaks and I've just about...got it!\u201d",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "145/204 \u2022 EN \u2022 6",
+      "fullName": "Hiro Hamada - Robotics Prodigy",
+      "fullText": "SWEET TECH \u27f3, 2 \u2b21 \u2014 Search your deck for an item\ncard or a Robot character card and reveal it to all\nplayers. Shuffle your deck and put that card on top of it.",
+      "fullTextSections": [
+        "SWEET TECH \u27f3, 2 \u2b21 \u2014 Search your deck for an item\ncard or a Robot character card and reveal it to all\nplayers. Shuffle your deck and put that card on top of it."
+      ],
+      "id": 1344,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/145_f4af426ec29f7892c5e2c1c1e8bf4d9415c9e600.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/145_461d18041cd621032562a98f9a1c4359cf446896.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/145_406689907f9ea38cae3ab70cafb2c98b2aeba136.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 1,
+      "name": "Hiro Hamada",
+      "number": 145,
+      "rarity": "Uncommon",
+      "setCode": "6",
+      "simpleName": "hiro hamada robotics prodigy",
+      "story": "Big Hero 6",
+      "strength": 0,
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Inventor"
+      ],
+      "subtypesText": "Storyborn \u2022 Hero \u2022 Inventor",
+      "type": "Character",
+      "version": "Robotics Prodigy",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "effect": "When you play this character, exert chosen opposing item. It can't ready at the start of its next turn.",
+          "fullText": "EAT ANYTHING When you play this character,\nexert chosen opposing item. It can't ready at the\nstart of its next turn.",
+          "name": "EAT ANYTHING",
+          "type": "triggered"
+        },
+        {
+          "effect": "During your turn, this character gains Evasive. (They can challenge characters with Evasive.)",
+          "fullText": "OUT TO LUNCH During your turn, this character\ngains Evasive. (They can challenge characters\nwith Evasive.)",
+          "name": "OUT TO LUNCH",
+          "type": "static"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "Lisanne Koeteeuw"
+      ],
+      "artistsText": "Lisanne Koeteeuw",
+      "code": "lH",
+      "color": "Sapphire",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 306674,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/306674",
+        "cardmarketId": 799108,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Azurite-Sea/HeiHei-Not-So-Tricky-Chicken?language=1",
+        "tcgPlayerId": 588363,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/588363"
+      },
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "146/204 \u2022 EN \u2022 6",
+      "fullName": "HeiHei - Not-So-Tricky Chicken",
+      "fullText": "EAT ANYTHING When you play this character,\nexert chosen opposing item. It can't ready at the\nstart of its next turn.\nOUT TO LUNCH During your turn, this character\ngains Evasive. (They can challenge characters\nwith Evasive.)",
+      "fullTextSections": [
+        "EAT ANYTHING When you play this character,\nexert chosen opposing item. It can't ready at the\nstart of its next turn.",
+        "OUT TO LUNCH During your turn, this character\ngains Evasive. (They can challenge characters\nwith Evasive.)"
+      ],
+      "id": 1345,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/146_b5b3eb43197344ce68e580496e97dc600d8fd05f.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/146_43d646f20ad28cf240aa62adaaededf99128c870.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/146_95c61ce0f4608f92809f6f3def161f5e4d33bf3d.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 1,
+      "name": "HeiHei",
+      "number": 146,
+      "rarity": "Uncommon",
+      "setCode": "6",
+      "simpleName": "heihei not-so-tricky chicken",
+      "story": "Moana",
+      "strength": 2,
+      "subtypes": [
+        "Storyborn",
+        "Ally"
+      ],
+      "subtypesText": "Storyborn \u2022 Ally",
+      "type": "Character",
+      "version": "Not-So-Tricky Chicken",
+      "willpower": 2
+    },
+    {
+      "abilities": [
+        {
+          "effect": "When you play this character, you may banish chosen item. Its player gains 1 lore.",
+          "fullText": "BLADES OF FURY When you play this character, you\nmay banish chosen item. Its player gains 1 lore.",
+          "name": "BLADES OF FURY",
+          "type": "triggered"
+        },
+        {
+          "effect": "During your turn, this character gains Evasive. (They can challenge characters with Evasive.)",
+          "fullText": "QUICK REFLEXES During your turn, this character\ngains Evasive. (They can challenge characters with\nEvasive.)",
+          "name": "QUICK REFLEXES",
+          "type": "static"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "Taraneh"
+      ],
+      "artistsText": "Taraneh",
+      "code": "lK",
+      "color": "Sapphire",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 302053,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/302053",
+        "cardmarketId": 794867,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Azurite-Sea/Wasabi-Methodical-Engineer?language=1",
+        "tcgPlayerId": 578231,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/578231"
+      },
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "149/204 \u2022 EN \u2022 6",
+      "fullName": "Wasabi - Methodical Engineer",
+      "fullText": "BLADES OF FURY When you play this character, you\nmay banish chosen item. Its player gains 1 lore.\nQUICK REFLEXES During your turn, this character\ngains Evasive. (They can challenge characters with\nEvasive.)",
+      "fullTextSections": [
+        "BLADES OF FURY When you play this character, you\nmay banish chosen item. Its player gains 1 lore.",
+        "QUICK REFLEXES During your turn, this character\ngains Evasive. (They can challenge characters with\nEvasive.)"
+      ],
+      "id": 1348,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/149_a30a73f9411b2ecc81c7d2c19c0f76d8dc7fecc6.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/149_6cb654539ddfab9eb7d9ce4aebdf63aaf70ada66.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/149_8a78ab755a1072f3874d35d11e225a07ab1c08c6.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 1,
+      "name": "Wasabi",
+      "number": 149,
+      "promoIds": [
+        1428
+      ],
+      "rarity": "Uncommon",
+      "setCode": "6",
+      "simpleName": "wasabi methodical engineer",
+      "story": "Big Hero 6",
+      "strength": 3,
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Inventor"
+      ],
+      "subtypesText": "Storyborn \u2022 Hero \u2022 Inventor",
+      "type": "Character",
+      "version": "Methodical Engineer",
+      "willpower": 3
+    },
+    {
+      "amount": 3,
+      "artists": [
+        "Samanta Erdini"
+      ],
+      "artistsText": "Samanta Erdini",
+      "code": "lM",
+      "color": "Sapphire",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 304485,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/304485",
+        "cardmarketId": 794868,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Azurite-Sea/Gadget-Hackwrench-Perceptive-Mouse?language=1",
+        "tcgPlayerId": 585034,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/585034"
+      },
+      "flavorText": "\u201cAll the clues pointed to an island, but I never\nthought I'd see it on a map. Golly, this is\nincredible! I mean, the island actually exists, so it's\ntechnically credible\u2014but still! This is amazing!\u201d",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "151/204 \u2022 EN \u2022 6",
+      "fullName": "Gadget Hackwrench - Perceptive Mouse",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 1350,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/151_b283c1a8c4e44a2b289f61b6dffcd1b9160562d0.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/151_3deeb3b38ff29d2c7c69000dfb1ae126d1e28838.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/151_74e1b43a401c7b53e10011903075a161ecef04ff.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 1,
+      "name": "Gadget Hackwrench",
+      "number": 151,
+      "rarity": "Common",
+      "setCode": "6",
+      "simpleName": "gadget hackwrench perceptive mouse",
+      "story": "Chip 'n Dale: Rescue Rangers",
+      "strength": 2,
+      "subtypes": [
+        "Storyborn",
+        "Ally",
+        "Inventor"
+      ],
+      "subtypesText": "Storyborn \u2022 Ally \u2022 Inventor",
+      "type": "Character",
+      "version": "Perceptive Mouse",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Your other Inventor characters gain Resist +1. (Damage dealt to them is reduced by 1.)",
+          "fullText": "I NEED TO UPGRADE ALL OF YOU Your other\nInventor characters gain Resist +1. (Damage dealt\nto them is reduced by 1.)",
+          "name": "I NEED TO UPGRADE ALL OF YOU",
+          "type": "static"
+        },
+        {
+          "costs": [
+            "2 \u2b21"
+          ],
+          "costsText": "2 \u2b21",
+          "effect": "Look at the top card of your deck. Put it on either the top or the bottom of your deck.",
+          "fullText": "SHAPE THE FUTURE 2 \u2b21 \u2014 Look at the top card of\nyour deck. Put it on either the top or the bottom\nof your deck.",
+          "name": "SHAPE THE FUTURE",
+          "type": "activated"
+        }
+      ],
+      "amount": 1,
+      "artists": [
+        "Gonzalo Kenny"
+      ],
+      "artistsText": "Gonzalo Kenny",
+      "code": "lP",
+      "color": "Sapphire",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 302033,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/302033",
+        "cardmarketId": 794869,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Azurite-Sea/Hiro-Hamada-Team-Leader?language=1",
+        "tcgPlayerId": 578232,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/578232"
+      },
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "154/204 \u2022 EN \u2022 6",
+      "fullName": "Hiro Hamada - Team Leader",
+      "fullText": "I NEED TO UPGRADE ALL OF YOU Your other\nInventor characters gain Resist +1. (Damage dealt\nto them is reduced by 1.)\nSHAPE THE FUTURE 2 \u2b21 \u2014 Look at the top card of\nyour deck. Put it on either the top or the bottom\nof your deck.",
+      "fullTextSections": [
+        "I NEED TO UPGRADE ALL OF YOU Your other\nInventor characters gain Resist +1. (Damage dealt\nto them is reduced by 1.)",
+        "SHAPE THE FUTURE 2 \u2b21 \u2014 Look at the top card of\nyour deck. Put it on either the top or the bottom\nof your deck."
+      ],
+      "id": 1353,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/154_43ed9ac134b7bd2b024c7f03f07571a420c4b057.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/154_d28a5476cff21d14e68e5793f8bdb9a7510ea207.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/154_d500a08c39e53e9ea26940be1c5ecea549954d9e.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 1,
+      "name": "Hiro Hamada",
+      "number": 154,
+      "rarity": "Rare",
+      "setCode": "6",
+      "simpleName": "hiro hamada team leader",
+      "story": "Big Hero 6",
+      "strength": 1,
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Inventor"
+      ],
+      "subtypesText": "Storyborn \u2022 Hero \u2022 Inventor",
+      "type": "Character",
+      "version": "Team Leader",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "effect": "If you have an Inventor character in play, you pay 1 \u2b21 less to play this character.",
+          "fullText": "FULLY CHARGED If you have an Inventor character\nin play, you pay 1 \u2b21 less to play this character.",
+          "name": "FULLY CHARGED",
+          "type": "static"
+        },
+        {
+          "costs": [
+            "2 \u2b21"
+          ],
+          "costsText": "2 \u2b21",
+          "effect": "Remove up to 1 damage from another chosen character.",
+          "fullText": "YOU SAID \u2018OW\u2019 2 \u2b21 \u2014 Remove up to 1 damage\nfrom another chosen character.",
+          "name": "YOU SAID \u2018OW\u2019",
+          "type": "activated"
+        }
+      ],
+      "amount": 1,
+      "artists": [
+        "Jared Mathews"
+      ],
+      "artistsText": "Jared Mathews",
+      "code": "lR",
+      "color": "Sapphire",
+      "cost": 3,
+      "enchantedId": 1417,
+      "externalLinks": {
+        "cardTraderId": 302043,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/302043",
+        "cardmarketId": 794870,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Azurite-Sea/Baymax-Personal-Healthcare-Companion-V1?language=1",
+        "tcgPlayerId": 578233,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/578233"
+      },
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "156/204 \u2022 EN \u2022 6",
+      "fullName": "Baymax - Personal Healthcare Companion",
+      "fullText": "FULLY CHARGED If you have an Inventor character\nin play, you pay 1 \u2b21 less to play this character.\nYOU SAID \u2018OW\u2019 2 \u2b21 \u2014 Remove up to 1 damage\nfrom another chosen character.",
+      "fullTextSections": [
+        "FULLY CHARGED If you have an Inventor character\nin play, you pay 1 \u2b21 less to play this character.",
+        "YOU SAID \u2018OW\u2019 2 \u2b21 \u2014 Remove up to 1 damage\nfrom another chosen character."
+      ],
+      "id": 1355,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/156_bfdeb2817d11ff88c2d004a6b9ff597b1dad21f6.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/156_abede20dbac6738aa2efeac09f39621431e036a4.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/156_e59bac2746460b19f4a4ed107d17af29378aa477.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 2,
+      "name": "Baymax",
+      "number": 156,
+      "rarity": "Rare",
+      "setCode": "6",
+      "simpleName": "baymax personal healthcare companion",
+      "story": "Big Hero 6",
+      "strength": 0,
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Robot"
+      ],
+      "subtypesText": "Storyborn \u2022 Hero \u2022 Robot",
+      "type": "Character",
+      "version": "Personal Healthcare Companion",
+      "willpower": 4
+    },
+    {
+      "amount": 3,
+      "artists": [
+        "Jennifer Park"
+      ],
+      "artistsText": "Jennifer Park",
+      "code": "lT",
+      "color": "Sapphire",
+      "cost": 1,
+      "externalLinks": {
+        "cardTraderId": 306637,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/306637",
+        "cardmarketId": 799114,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Azurite-Sea/Yokai-Professor-Callaghan?language=1",
+        "tcgPlayerId": 587973,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/587973"
+      },
+      "flavorText": "\u201cYou are all brilliant scientists and inventors. Think\nof what you could do with this little device. How do\nyou push the boundaries of what is possible?\u201d",
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "158/204 \u2022 EN \u2022 6",
+      "fullName": "Yokai - Professor Callaghan",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 1357,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/158_7d6f6e3ea36a3d4dbae1f9c75e5ed1ac9dac8b04.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/158_b7bf33879df31ecaacd614ac1f204bbd060726cf.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/158_335c5b86537ab36dc7ed235bc9376f987a303c18.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 1,
+      "name": "Yokai",
+      "number": 158,
+      "rarity": "Common",
+      "setCode": "6",
+      "simpleName": "yokai professor callaghan",
+      "story": "Big Hero 6",
+      "strength": 2,
+      "subtypes": [
+        "Storyborn",
+        "Villain",
+        "Inventor"
+      ],
+      "subtypesText": "Storyborn \u2022 Villain \u2022 Inventor",
+      "type": "Character",
+      "version": "Professor Callaghan",
+      "willpower": 2
+    },
+    {
+      "abilities": [
+        {
+          "costs": [
+            "\u27f3"
+          ],
+          "costsText": "\u27f3",
+          "effect": "Choose one: \u2022 Remove up to 1 damage from chosen character. \u2022 If you have a Robot character in play, remove up to 3 damage from chosen character.",
+          "fullText": "10,000 MEDICAL PROCEDURES \u27f3 \u2014 Choose one:\n\u2022 Remove up to 1 damage from chosen character.\n\u2022 If you have a Robot character in play, remove up to 3\ndamage from chosen character.",
+          "name": "10,000 MEDICAL PROCEDURES",
+          "type": "activated"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "Rudy Hill"
+      ],
+      "artistsText": "Rudy Hill",
+      "code": "m1",
+      "color": "Sapphire",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 306632,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/306632",
+        "cardmarketId": 799121,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Azurite-Sea/Baymaxs-Healthcare-Chip?language=1",
+        "tcgPlayerId": 587969,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/587969"
+      },
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "166/204 \u2022 EN \u2022 6",
+      "fullName": "Baymax's Healthcare Chip",
+      "fullText": "10,000 MEDICAL PROCEDURES \u27f3 \u2014 Choose one:\n\u2022 Remove up to 1 damage from chosen character.\n\u2022 If you have a Robot character in play, remove up to 3\ndamage from chosen character.",
+      "fullTextSections": [
+        "10,000 MEDICAL PROCEDURES \u27f3 \u2014 Choose one:\n\u2022 Remove up to 1 damage from chosen character.\n\u2022 If you have a Robot character in play, remove up to 3\ndamage from chosen character."
+      ],
+      "id": 1365,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/166_bd9549783ab07daa6a0907d0c306db72d4b948fc.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/166_6bcfa653f9eeb7411a6cabeb75d475a579d649b8.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/166_1df91f27c8a0da1bf67bd7ee1aa62fe20778bc9d.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "name": "Baymax's Healthcare Chip",
+      "number": 166,
+      "rarity": "Common",
+      "setCode": "6",
+      "simpleName": "baymax's healthcare chip",
+      "story": "Big Hero 6",
+      "type": "Item"
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Inventor characters get +1 \u26c9 while here.",
+          "fullText": "WELCOME TO THE LAB Inventor characters get +1 \u26c9 while here.",
+          "name": "WELCOME TO THE LAB",
+          "type": "static"
+        },
+        {
+          "effect": "At the start of your turn, if you have a character here, gain 1 lore.",
+          "fullText": "PUSH THE BOUNDARIES At the start of your turn, if you have a character\nhere, gain 1 lore.",
+          "name": "PUSH THE BOUNDARIES",
+          "type": "triggered"
+        }
+      ],
+      "amount": 2,
+      "artists": [
+        "Gabe"
+      ],
+      "artistsText": "Gabe",
+      "code": "m5",
+      "color": "Sapphire",
+      "cost": 1,
+      "externalLinks": {
+        "cardTraderId": 310100,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/310100",
+        "cardmarketId": 799124,
+        "cardmarketUrl": "https://www.cardmarket.com/en/Lorcana/Products/Singles/Azurite-Sea/Institute-of-Technology-Prestigious-University?language=1",
+        "tcgPlayerId": 591988,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/591988"
+      },
+      "foilTypes": [
+        "None",
+        "Cold"
+      ],
+      "fullIdentifier": "170/204 \u2022 EN \u2022 6",
+      "fullName": "Institute of Technology - Prestigious University",
+      "fullText": "WELCOME TO THE LAB Inventor characters get +1 \u26c9 while here.\nPUSH THE BOUNDARIES At the start of your turn, if you have a character\nhere, gain 1 lore.",
+      "fullTextSections": [
+        "WELCOME TO THE LAB Inventor characters get +1 \u26c9 while here.",
+        "PUSH THE BOUNDARIES At the start of your turn, if you have a character\nhere, gain 1 lore."
+      ],
+      "id": 1369,
+      "images": {
+        "full": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/170_45e74c6686d245d1ec51f28c913a58b710aeeb15.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/170_fdfce398b5f16441fdd345921050cfb177891e90.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/170_5b4ebd1e432a549919e36f6aa830d7aa919308a3.jpg"
+      },
+      "inkwell": true,
+      "isFoil": false,
+      "lore": 0,
+      "moveCost": 1,
+      "name": "Institute of Technology",
+      "number": 170,
+      "rarity": "Common",
+      "setCode": "6",
+      "simpleName": "institute of technology prestigious university",
+      "story": "Big Hero 6",
+      "type": "Location",
+      "version": "Prestigious University",
+      "willpower": 5
+    }
+  ]
+}
